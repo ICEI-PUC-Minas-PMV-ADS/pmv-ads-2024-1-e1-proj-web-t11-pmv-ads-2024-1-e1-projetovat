@@ -1,4 +1,4 @@
-# Título do Projeto
+Projeto Vat (Vida, Arte e Tecnologia)
 
 `CURSO`
 
