@@ -1,4 +1,4 @@
-Projeto Vat (Vida, Arte e Tecnologia)
+# Projeto Vat (Vida, Arte e Tecnologia)
 
 `CURSO`
 
