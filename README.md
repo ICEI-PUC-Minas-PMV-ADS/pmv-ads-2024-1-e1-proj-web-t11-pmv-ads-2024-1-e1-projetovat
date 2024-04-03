@@ -1,10 +1,10 @@
 # Projeto Vat (Vida, Arte e Tecnologia)
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Desenvolvimento de aplicação web front-end`
 
-`SEMESTRE`
+`1º semestre/2022`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
