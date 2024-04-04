@@ -4,7 +4,7 @@
 
 `Desenvolvimento de aplicação web front-end`
 
-`1º semestre/2022`
+`1º semestre/2024`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
@@ -16,9 +16,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Rebeca da Conceição Custódio
 * Thais de Paula Porto Maia
 
-## Orientador
+## Orientadora
 
-* Nome completo do professor
+* Amália Soares Vieira de Vasconcelos
 
 # Documentação
 
