@@ -6,7 +6,7 @@
 
 `1º semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O projeto consiste no desenvolvimento de uma aplicação web que visa conectar doadores e voluntários a instituições sociais, facilitando o processo de doações e trabalho voluntário. 
 
 ## Integrantes
 
