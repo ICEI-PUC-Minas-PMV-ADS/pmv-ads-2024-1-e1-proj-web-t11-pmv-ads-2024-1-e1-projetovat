@@ -5,8 +5,11 @@
 ## Problema
 
   De acordo com a fundadora da Abraccia (Associação Brasileira de Combate ao Câncer Infantil e Adulto), em uma entrevista dada ao G1, Inês Bestetti relata que a escassez de voluntários e falta de recursos, impede o progresso da responsabilidade social e prejudicam os funcionamentos das ações sociais.
+  
   Em muitos casos, os voluntários não conseguem encontrar oportunidades de voluntariado que correspondam aos seus interesses ou habilidades e as ONGs enfrentam dificuldades para recrutar voluntários qualificados. Isso pode resultar em uma diminuição do alcance e impacto das iniciativas sociais, afetando negativamente as comunidades/projetos atendidos pelas ONGs.
+  
   Tendo em vista a dificuldade de conexão entre voluntários e organizações não governamentais (ONGs), que resulta em uma utilização ineficiente de recursos humanos e uma diminuição do impacto das ações sociais, cria-se o questionamento: “Quais os efeitos que uma plataforma/software de aproximação entre voluntários e ONGs teriam sobre as ações sociais?”
+  
   Diante de tal questionamento, o Projeto VAT busca facilitar a conexão entre voluntários e projetos sociais, para aumentar a eficiência e impacto das ações. Dessa forma, visamos solucionar o problema tanto de voluntários que desejam contribuir para causas sociais, quanto as próprias ONGs que precisam de apoio e mão de obra voluntária.
 
 
