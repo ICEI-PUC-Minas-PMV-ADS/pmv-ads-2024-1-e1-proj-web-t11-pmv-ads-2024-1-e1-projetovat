@@ -39,9 +39,11 @@ trazendo um amplo benefício pra o bem comum.
 ## Objetivos
 
 Objetivos Gerais
+
 Desenvolver um software utilizando tecnologia para alcançar e divulgar instituições sociais, projetos, campanhas de doações e apoiar o trabalho voluntário. Integrar ferramentas e processos para os doadores/usuários, como pesquisa, chat integrado e verificação de autenticidade das ONGs cadastradas. Facilitar o contato entre as pessoas interessadas em voluntariado e as ONGs, promovendo uma comunicação aberta e transparente.
 
 Objetivos específicos
+
 Identificar e analisar os desafios enfrentados pelas ONGs na divulgação de projetos e pelos doadores na busca por oportunidades de contribuição.Desenvolver uma plataforma segura com ferramentas para resolver desafios enfrentados por ONGs e doadores.
 Implementar funcionalidades de acordo com os requisitos planejados, através de uma interface amigável para alcançar um amplo público e garantir a simplicidade de uso.
 
