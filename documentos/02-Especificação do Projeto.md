@@ -20,7 +20,8 @@
 </tbody>
 </table>
 
-<img width="418" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/3a4928e8-eb27-4486-a732-71192a4a31bb">
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/63e0f896-19f8-4d52-b4a4-a81641de90c1)
+
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/d50fd74c-4f51-4bc9-a82b-0f3f8350b3f7)
 
