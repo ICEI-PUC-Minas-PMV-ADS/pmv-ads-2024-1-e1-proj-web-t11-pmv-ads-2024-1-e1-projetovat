@@ -20,6 +20,8 @@
 </tbody>
 </table>
 
+<img width="418" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/3a4928e8-eb27-4486-a732-71192a4a31bb">
+
 
 ## Histórias de Usuários
 
