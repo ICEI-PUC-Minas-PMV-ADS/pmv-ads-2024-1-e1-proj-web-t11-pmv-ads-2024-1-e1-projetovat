@@ -8,6 +8,7 @@ Já o terceiro setor, por sua vez, engloba diversas organizações, como fundaç
 associações, que realizam atividades voluntárias e sem fins lucrativos. Essas
 organizações são comumente conhecidas como Organizações Não Governamentais
 (ONGs) (GESET, 2001).
+
 As ONGs possuem uma grande influência no desenvolvimento da cidadania.
 As milhares de ações e projetos realizados por todas as Organizações Não
 Governamentais do Brasil dão suporte a vários grupos necessitados, garantindo
@@ -18,6 +19,7 @@ demandas e a ausência de doações fazem com que o trabalho aconteça de forma
 não satisfatória. O grande desafio do século XXI, com tantas pautas, tantos problemas
 e desigualdades, é gerar engajamento nos programas de voluntariado, bem como a
 permanência dos voluntários.
+
 Com isso, podemos concluir que as ONGs do Brasil possuem uma forte
 relevância no país, o projeto como um todo é uma forma de trazer maior
 visualização para causas que são tão importantes e necessárias na nossa sociedade,
@@ -38,6 +40,7 @@ trazendo um amplo benefício pra o bem comum.
 
 Objetivos Gerais
 Desenvolver um software utilizando tecnologia para alcançar e divulgar instituições sociais, projetos, campanhas de doações e apoiar o trabalho voluntário. Integrar ferramentas e processos para os doadores/usuários, como pesquisa, chat integrado e verificação de autenticidade das ONGs cadastradas. Facilitar o contato entre as pessoas interessadas em voluntariado e as ONGs, promovendo uma comunicação aberta e transparente.
+
 Objetivos específicos
 Identificar e analisar os desafios enfrentados pelas ONGs na divulgação de projetos e pelos doadores na busca por oportunidades de contribuição.Desenvolver uma plataforma segura com ferramentas para resolver desafios enfrentados por ONGs e doadores.
 Implementar funcionalidades de acordo com os requisitos planejados, através de uma interface amigável para alcançar um amplo público e garantir a simplicidade de uso.
@@ -59,6 +62,7 @@ pouco conhecimento de tecnologia. São pessoas que buscam ter fácil acesso as
 plataformas, interações com ONGs e os seus diversos projetos sociais como um todo,
 de forma rápida e eficaz. São essas pessoas entre 19 e 50 anos, que buscam meios
 de apoiar uma causa de acordo com sua missão, objetivos e valores pessoais.
+
 De acordo com uma pesquisa realizada pelo grupo, através de um questionário
 do Google Forms, para identificar potenciais voluntários e suas principais
 características, foi possível detectar que os voluntários analisados tem como principal
@@ -68,5 +72,6 @@ feminino se apresenta como o principal interessado, com a faixa etária entre 26
 anos, tendo como apoio administrativo, divulgação e conscientização, as principais
 áreas que gostariam de atuar. Foi constatado também que o meio de comunicação
 preferencial dos envolvidos são as redes sociais.
+
 Pesquisa Voluntariado. Disponível em: https://pesquisavoluntariado.org.br. 
 
