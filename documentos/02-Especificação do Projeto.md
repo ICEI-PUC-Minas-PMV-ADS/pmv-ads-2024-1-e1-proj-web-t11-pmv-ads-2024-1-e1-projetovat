@@ -17,9 +17,8 @@
 
 ## Histórias de Usuários
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/6864751f-93d6-42fb-9796-086d05420aea)
 
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/9e76e424-0129-4429-9d7b-8af1c754d83a)
 
 
 ## Requisitos do Projeto
