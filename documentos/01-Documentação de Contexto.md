@@ -44,7 +44,7 @@ Desenvolver um software utilizando tecnologia para alcançar e divulgar institui
 
 Objetivos específicos
 
-Identificar e analisar os desafios enfrentados pelas ONGs na divulgação de projetos e pelos doadores na busca por oportunidades de contribuição.Desenvolver uma plataforma segura com ferramentas para resolver desafios enfrentados por ONGs e doadores.
+Identificar e analisar os desafios enfrentados pelas ONGs na divulgação de projetos e pelos doadores na busca por oportunidades de contribuição. Desenvolver uma plataforma segura com ferramentas para resolver desafios enfrentados por ONGs e doadores.
 Implementar funcionalidades de acordo com os requisitos planejados, através de uma interface amigável para alcançar um amplo público e garantir a simplicidade de uso.
 
 
