@@ -1,4 +1,4 @@
-# Projeto Vat (Vida, Arte e Tecnologia)
+# Projeto VAT (Vida, Arte e Tecnologia)
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
