@@ -50,11 +50,16 @@ Implementar funcionalidades de acordo com os requisitos planejados, através de 
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+As Organizações Não Governamentais (ONGs) são entidades sem fins lucrativos que operam para abordar necessidades sociais. Contudo, a escassez de voluntários disponíveis para atender a essas demandas e a falta de doações comprometem a eficácia do trabalho realizado. 
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+Pequenas ONGs enfrentam desafios para se destacar em um mercado saturado de organizações sem fins lucrativos, sendo uma dessas dificuldades o recrutamento de voluntários. Para superar essa dificuldade, é fundamental que elas adotem uma abordagem proativa em sua comunicação e marketing, por meio da tecnologia. Além disso, é crucial que essas organizações cultivem uma presença robusta em plataformas digitais e sejam ativas nas redes sociais, compartilhando suas narrativas e conquistas de maneira consistente, para cativar voluntários comprometidos, a fim de expandir o alcance de suas iniciativas de recrutamento.
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Segundo uma pesquisa do IBGE, 82,7% dos lares no Brasil têm acesso à internet (IBGE, 2021). Neste contexto, a internet desempenha um papel crucial como uma ferramenta facilitadora para a divulgação dos esforços sociais de Organizações Não-Governamentais (ONGs), proporcionando-lhes uma plataforma ampla para visibilidade e facilitando a criação de mecanismos para captação de recursos, doações e voluntários.
+
+Dados da pesquisa "Voluntariado no Brasil 2021", mostrou que o país conta com 57 milhões de brasileiros engajados em atividades voluntárias. Em 2001, apenas 18% da população participava ou havia participado de alguma forma de trabalho voluntário. Esse número aumentou para 25% em 2011 e, de forma notável, alcançou 56% em 2021. Durante esse período, houve também um aumento significativo na adoção do voluntariado online, com 21% das pessoas optando por atividades virtuais, sendo as mais comuns aquelas relacionadas ao apoio psicológico e à educação. Além do crescimento no número de pessoas envolvidas, a pesquisa de 2021 revela um aumento no tempo dedicado às atividades voluntárias, com uma média de 18 horas por mês.
+
+As ONGs frequentemente contam com uma equipe reduzida e recursos financeiros limitados para investir em campanhas eficazes de arrecadação de fundos e voluntariados. Nesse contexto e segundo os dados apresentados, é importante, por meio da tecnologia, a criação de um software que aproxime potenciais voluntários de ONGs, afim de melhorar o recrutamento e alavancar as causas sociais. 
+
 
 ## Público-Alvo
 
