@@ -22,9 +22,15 @@
 
 <img width="418" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/3a4928e8-eb27-4486-a732-71192a4a31bb">
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/d50fd74c-4f51-4bc9-a82b-0f3f8350b3f7)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/99fac715-8172-4b5d-a206-83d0903bff9c)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/e7f701ad-6d8d-4e31-bc66-58263ccf7fc7)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/164390b2-144b-4749-87d3-3453d255674f)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/bded9c6d-fd1d-4104-9596-90ff5f581564)
 
 ## Histórias de Usuários
 
@@ -35,10 +41,8 @@
 
 [Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/9e76e424-0129-4429-9d7b-8af1c754d83a)
+
 
 ## Requisitos do Projeto
 
