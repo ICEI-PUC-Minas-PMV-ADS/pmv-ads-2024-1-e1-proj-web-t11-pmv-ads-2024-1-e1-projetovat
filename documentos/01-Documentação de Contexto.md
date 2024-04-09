@@ -36,9 +36,12 @@ trazendo um amplo benefício pra o bem comum.
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+Objetivos Gerais
+Desenvolver um software utilizando tecnologia para alcançar e divulgar instituições sociais, projetos, campanhas de doações e apoiar o trabalho voluntário. Integrar ferramentas e processos para os doadores/usuários, como pesquisa, chat integrado e verificação de autenticidade das ONGs cadastradas. Facilitar o contato entre as pessoas interessadas em voluntariado e as ONGs, promovendo uma comunicação aberta e transparente.
+Objetivos específicos
+Identificar e analisar os desafios enfrentados pelas ONGs na divulgação de projetos e pelos doadores na busca por oportunidades de contribuição.Desenvolver uma plataforma segura com ferramentas para resolver desafios enfrentados por ONGs e doadores.
+Implementar funcionalidades de acordo com os requisitos planejados, através de uma interface amigável para alcançar um amplo público e garantir a simplicidade de uso.
+
 
 ## Justificativa
 
@@ -50,12 +53,20 @@ Este link pode ajudar a equipe a formular a justificativa: [Como montar a justif
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
-
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
+Embora todos os usuários se beneficiem do site, o foco desse projeto é para
+pessoas que queiram se voluntariar para diferentes tipos de ONGs, mesmo tendo
+pouco conhecimento de tecnologia. São pessoas que buscam ter fácil acesso as
+plataformas, interações com ONGs e os seus diversos projetos sociais como um todo,
+de forma rápida e eficaz. São essas pessoas entre 19 e 50 anos, que buscam meios
+de apoiar uma causa de acordo com sua missão, objetivos e valores pessoais.
+De acordo com uma pesquisa realizada pelo grupo, através de um questionário
+do Google Forms, para identificar potenciais voluntários e suas principais
+características, foi possível detectar que os voluntários analisados tem como principal
+interesse em ONGs da área da saúde. A maioria dos entrevistados trabalham e
+gostariam de receber das ONGs oportunidades de desenvolvimento. O gênero
+feminino se apresenta como o principal interessado, com a faixa etária entre 26 a 40
+anos, tendo como apoio administrativo, divulgação e conscientização, as principais
+áreas que gostariam de atuar. Foi constatado também que o meio de comunicação
+preferencial dos envolvidos são as redes sociais.
+Pesquisa Voluntariado. Disponível em: https://pesquisavoluntariado.org.br. 
 
