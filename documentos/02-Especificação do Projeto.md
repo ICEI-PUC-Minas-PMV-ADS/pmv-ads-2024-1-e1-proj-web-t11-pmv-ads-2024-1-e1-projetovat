@@ -39,6 +39,7 @@
 ### Requisitos não Funcionais
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/9bdba909-1952-4d56-b2e2-bfcfc8fd5ff7)
 
 
 |ID      | Descrição               |Prioridade |
