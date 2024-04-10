@@ -40,6 +40,9 @@
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/ca734fce-19b9-40e5-b393-ff8824446c4b)
+
+
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
 | RNF-01 |  ...                    | ...   | 
