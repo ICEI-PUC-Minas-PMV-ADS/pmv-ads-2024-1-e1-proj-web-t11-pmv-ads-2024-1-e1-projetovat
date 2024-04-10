@@ -44,6 +44,7 @@
 |--------|-------------------------|----|
 | RNF-01 |  ...                    | ...   | 
 | ...    |  ...                    | ...   | 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/92673c4c-dbab-45a2-a2ac-7fd280d26073)
 
 **Prioridade: Alta / Média / Baixa. 
 
