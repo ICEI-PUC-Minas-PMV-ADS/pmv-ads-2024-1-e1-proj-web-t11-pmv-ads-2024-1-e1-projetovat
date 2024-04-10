@@ -39,7 +39,27 @@
 ### Requisitos não Funcionais
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
-
+Requisitos não funcionais
+ID Descrição Prioridade
+RNF-01 O sistema deverá permanecer 24 horas por dia no ar. Alta
+RNF- 02 O sistema deverá ter uma usabilidade simples para maior
+compreensão do usuário.
+Alta
+RNF-03 A aplicação deverá ser responsiva permitindo a
+visualização em dispositivos diversos de forma adequada.
+Alta
+RNF-04 Sistema compatível com qualquer navegador do mercado. Alta
+RNF-05 Sistema deverá ter segurança para proteção dos dados
+das ONGs e dos usuários.
+Alta
+RNF-06 O sistema deverá ter um ótimo desempenho para lidar
+com vários usuários de uma única vez.
+Alta
+RNF-07 O sistema deverá ser desenvolvido em linguagem
+Javascript, CSS e HTML.
+Alta
+**Prioridade: Alta / Média / Baixa.
+Tabela 3
 
 
 |ID      | Descrição               |Prioridade |
