@@ -32,7 +32,7 @@
 |   ID  | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 | Na tela principal o site deverá apresentar histórias de superação com as missões das ONGs. | Alta  | 
-| RF-02 |  Na tela principal deverá ter relatos dos voluntários.  | Média |
+| RF-02 |  Na tela principal deverá ter relatos dos voluntários.  | "Média" |
 | RF-03 |  Na tela principal deverá destacar projetos atuais e futuros. | Alta  | 
 | RF-04 |  A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta. | Alta  | 
 | RF-05 | Na tela inicial o usuário deverá ser capaz de efetuar o login. | Alta  | 
