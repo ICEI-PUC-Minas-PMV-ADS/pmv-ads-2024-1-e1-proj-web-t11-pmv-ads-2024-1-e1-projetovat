@@ -32,7 +32,7 @@
 |   ID  | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 | Na tela principal o site deverá apresentar histórias de superação com as missões das ONGs. | Alta  | 
-| RF-02 |  Na tela principal deverá ter relatos dos voluntários.  | Media |
+| RF-02 |  Na tela principal deverá ter relatos dos voluntários.  |Média |
 | RF-03 |  Na tela principal deverá destacar projetos atuais e futuros. | Alta  | 
 | RF-04 |  A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta. | Alta  | 
 | RF-05 | Na tela inicial o usuário deverá ser capaz de efetuar o login. | Alta  | 
@@ -45,7 +45,7 @@
 | RF-12 | O sistema deve permitir que a instituição cadastre um evento. | Alta  | 
 | RF-13 | A aplicação deve permitir que a instituição cadastre ofertas de trabalho voluntario. | Alta  | 
 | RF-14 | O site deve dar a opção do usuário se inscrever em alguma ONG. | Alta  |
-| RF-15 | Um dia antes da missão o site deverá enviar um e-mail para confirmar se o usuário irá comparecer.    | Média | 
+| RF-15 | Um dia antes da missão o site deverá enviar um e-mail para confirmar se o usuário irá comparecer.    |Média | 
 | RF-16 | O site deve ter um chat integrado para as ONGs e usuários se comunicarem. | Alta | 
 | RF-17 |A aplicação deve oferecer uma funcionalidade de filtro/barra de pesquisa para permitir ao usuário localizar ONGs e Projetos.| Alta  |
 | RF-18 | O sistema deve permitir que o usuário acesse a lista de instituições cadastradas.  | Alta  | 
