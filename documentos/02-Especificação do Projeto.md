@@ -63,8 +63,8 @@
 |ID    | Descrição                | Prioridade |
 |--------|---------------------------------|----|
 | RNF-01 |  O sistema deverá permanecer 24 horas por dia no ar. | Alta   | 
-| RNF-02 |  O sistema deverá ter uma usabilidade simples para maior | Alta   |
-compreensão do usuário.                    
+| RNF-02 |  O sistema deverá ter uma usabilidade simples para maior 
+compreensão do usuário. | Alta   |                   
 | RF-01 |  ...                     | ...   | 
 |  ...  |  ...                     | ...   |
 
