@@ -64,8 +64,8 @@
 |--------|---------------------------------|----|
 | RNF-01 |  O sistema deverá permanecer 24 horas por dia no ar. | Alta   | 
 | RNF-02 |  O sistema deverá ter uma usabilidade simples para maior compreensão do usuário. | Alta   |                  
-| RF-01 |  ...                     | ...   | 
-|  ...  |  ...                     | ...   |
+| RF-03 |  A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada | Alta   | 
+| RF-04  | Sistema compatível com qualquer navegador do mercado.                     | Alta   |
 
 **Prioridade: Alta / Média / Baixa. 
 
