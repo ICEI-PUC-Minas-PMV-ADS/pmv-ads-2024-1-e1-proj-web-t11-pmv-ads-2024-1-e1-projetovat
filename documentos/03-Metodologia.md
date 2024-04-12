@@ -1,42 +1,60 @@
 
 # Metodologia
-
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
-
-
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
 
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+A Metodologia Ágil escolhida para o desenvolvimento deste Projeto foi o SCRUM. O SCRUM é uma metodologia amplamente adotada para o desenvolvimento de projetos de software. Ele se baseia em princípios iterativos e incrementais, permitindo entregas contínuas e adaptação às mudanças ao longo do processo.
+
+<br>
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
+A divisão de papéis dentro da equipe que utiliza o SCRUM, como base para definição do processo de desenvolvimento, é fundamental para o funcionamento eficaz do Projeto. Desta forma, a equipe está organizada da seguinte maneira:
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+•	**Scrum Master:** Ariane Moura.
+
+•	**Product Owner:** Leticia de Oliveira.
+
+•	**Equipe de Desenvolvimento:** Ariane Moura, Giovanni Finetto, Leticia de Oliveira, Rebeca Custódio e Thais Maia.
+
+•	**Equipe de Design:** Giovanni Finetto, Ariane Moura e Leticia de Oliveira.
+
+Essa divisão de papéis dentro da equipe proporciona uma estrutura clara de responsabilidades e colaboração, garantindo que todas as partes interessadas estejam alinhadas com os objetivos do projeto e que o trabalho seja realizado de forma eficiente e eficaz.
+
+<br>
 
 ### Processo
 
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
-- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+Para a implementação do SCRUM, seguimos as seguintes práticas:
 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+- **Cerimônias do SCRUM:**
+ 
+⁃*Sprint Planning:* No início de cada sprint, a equipe realiza uma reunião para selecionar itens do backlog do produto e planejar as atividades para a sprint.
+ 
+⁃*Daily Standup:* Reuniões diárias de curta duração, onde os membros da equipe compartilham o progresso, os obstáculos e as próximas tarefas.
+ 
+⁃*Sprint Review:* Ao final de cada sprint, a equipe apresenta o trabalho concluído ao Product Owner e outros stakeholders, obtendo feedback para a próxima iteração.
+ 
+⁃*Sprint Retrospective:* Uma reunião após a Sprint Review, onde a equipe reflete sobre o processo e identifica maneiras de melhorar a eficiência e a qualidade.
 
+<br>
+
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o **GitHub Project**, por meio do Quadro Kanban, organizado da seguinte forma:
+
+■ **Product Backlog:** Recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
+
+■ **To Do:** Esta lista representa o Sprint Backlog que está sendo trabalhado.
+
+■ **In progress:** Lista das tarefas iniciadas.
+
+■ **Done:** Nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
+
+<br>
+
+FOTO QUADRO KANBAN
+
+Figura 7 - Tela do Quadro Kanban no GitHub utilizada pelo grupo
+
+<br>
 
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
@@ -52,12 +70,37 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
+    <figcaption>Figura 8 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
-  
+
+
+<br>  
+<br>
+<br> 
+
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+**Ferramentas e Ambiente de Trabalho para Desenvolvimento do Projeto**
+
+➤**GitHub:**
+O GitHub é utilizado como plataforma de hospedagem de repositórios de código fonte. Nele, a equipe mantém todos os arquivos do projeto, permitindo o controle de versão, colaboração entre os membros e revisão de código. Os membros da equipe realizam commits regulares, criam branches para o desenvolvimento de novas funcionalidades ou correção de bugs e abrem pull requests para revisão de código pelos pares.
+
+➤**Microsoft Teams:**
+O Microsoft Teams é adotado como ferramenta de comunicação e colaboração entre os membros da equipe. Além disso, o Microsoft Teams é utilizado para realizar reuniões virtuais, compartilhar arquivos e documentos importantes, e manter uma comunicação eficaz entre os membros da equipe.
+
+➤**WhatsApp:**
+O WhatsApp é empregado como uma ferramenta complementar de comunicação rápida e informal entre os membros da equipe. Embora não seja a principal ferramenta de trabalho, o WhatsApp é utilizado para comunicações urgentes, atualizações rápidas e para manter a equipe conectada mesmo fora do horário de trabalho.
+
+➤**Figma:**
+O Figma é utilizado para o design de interfaces e prototipagem de telas. Os designers da equipe utilizaram o Figma para criar Wireframes e o fluxograma (User Flow), permitindo uma colaboração eficaz com os desenvolvedores e uma melhor compreensão das necessidades do projeto.
+
+➤**Ambiente de Trabalho:**
+Para o desenvolvimento do projeto, os membros da equipe utilizam seus próprios ambientes de trabalho, que geralmente consistem em computadores pessoais ou notebooks com sistemas operacionais compatíveis com as ferramentas de desenvolvimento utilizadas.
+
+➤**Processo de Gestão de Times:**
+A equipe adota uma abordagem ágil para gerenciamento de projetos, utilizando o SCRUM. O SCRUM orienta a equipe na divisão do trabalho em sprints, realização de reuniões regulares e manutenção de um backlog priorizado de tarefas.
+
+<br>
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
@@ -69,6 +112,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
+<br>
 
 ### Estratégia de Organização de Codificação 
 
