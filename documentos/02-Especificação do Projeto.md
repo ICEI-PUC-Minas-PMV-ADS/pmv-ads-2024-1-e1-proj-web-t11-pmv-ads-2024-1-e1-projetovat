@@ -54,7 +54,7 @@
 
 **Prioridade: Alta / Média / Baixa. 
 
-### Requisitos não Funcionais
+### Requisitos Não Funcionais
 
 
 |ID    | Descrição                | Prioridade |
