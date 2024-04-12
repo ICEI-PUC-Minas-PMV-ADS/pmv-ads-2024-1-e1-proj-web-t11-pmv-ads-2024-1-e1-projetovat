@@ -2,6 +2,7 @@
 
 ## Perfis de Usuários
 
+<br>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/63e0f896-19f8-4d52-b4a4-a81641de90c1)
 
@@ -15,11 +16,13 @@
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/bded9c6d-fd1d-4104-9596-90ff5f581564)
 
+<br>
+
 ## Histórias de Usuários
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/6864751f-93d6-42fb-9796-086d05420aea)
 
-
+<br>
 
 ## Requisitos do Projeto
 
@@ -53,6 +56,8 @@
 | RF-22 | A aplicação deve solicitar acesso a localização do usuário.  | Baixa  | 
 
 **Prioridade: Alta / Média / Baixa. 
+
+<br>
 
 ### Requisitos Não Funcionais
 
