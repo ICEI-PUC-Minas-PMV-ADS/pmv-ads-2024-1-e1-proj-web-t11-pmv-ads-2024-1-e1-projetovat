@@ -26,15 +26,15 @@ Essa divisão de papéis dentro da equipe proporciona uma estrutura clara de res
 
 Para a implementação do SCRUM, seguimos as seguintes práticas:
 
-- **Cerimônias do SCRUM:**
+- Cerimônias do SCRUM:
  
-⁃*Sprint Planning:* No início de cada sprint, a equipe realiza uma reunião para selecionar itens do backlog do produto e planejar as atividades para a sprint.
+⁃ *Sprint Planning:* No início de cada sprint, a equipe realiza uma reunião para selecionar itens do backlog do produto e planejar as atividades para a sprint.
  
-⁃*Daily Standup:* Reuniões diárias de curta duração, onde os membros da equipe compartilham o progresso, os obstáculos e as próximas tarefas.
+⁃ *Daily Standup:* Reuniões diárias de curta duração, onde os membros da equipe compartilham o progresso, os obstáculos e as próximas tarefas.
  
-⁃*Sprint Review:* Ao final de cada sprint, a equipe apresenta o trabalho concluído ao Product Owner e outros stakeholders, obtendo feedback para a próxima iteração.
+⁃ *Sprint Review:* Ao final de cada sprint, a equipe apresenta o trabalho concluído ao Product Owner e outros stakeholders, obtendo feedback para a próxima iteração.
  
-⁃*Sprint Retrospective:* Uma reunião após a Sprint Review, onde a equipe reflete sobre o processo e identifica maneiras de melhorar a eficiência e a qualidade.
+⁃ *Sprint Retrospective:* Uma reunião após a Sprint Review, onde a equipe reflete sobre o processo e identifica maneiras de melhorar a eficiência e a qualidade.
 
 <br>
 
