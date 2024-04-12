@@ -42,7 +42,7 @@ Essa tela usuário irá informar o Email e a senha para fazer o login e ter aces
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/4deb29d9-9633-4be8-921f-ba12824a0005)
 
-## Tela de Cadastro Usuário
+## Tela de Cadastro do Usuário
 Essa é a tela de cadastro, onde o usuário ira informar seu nome completo, email e senha, nessa tela tambem tem a opção para fazer o cadastro de uma ong.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/6ae4ea54-fae4-476e-8e4d-40a7f7f0dbf2)
