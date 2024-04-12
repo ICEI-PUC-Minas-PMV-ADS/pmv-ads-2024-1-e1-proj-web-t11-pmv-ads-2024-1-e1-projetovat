@@ -31,5 +31,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 >> - [MarvelApp](https://marvelapp.com/)
 >> - [Figma](https://www.figma.com/)
 
-
+## HomePage ou Tela inicial
+Essa é a tela inicial, onde o usuário irá ver ongs e os relatos dos voluntarios, no canto superior esquerdo irá ver a logo e no canto superior direito irá
+ter a opção de fazer login
 
