@@ -49,8 +49,10 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 ■ **Done:** Nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
 <br>
+ 
 
-FOTO QUADRO KANBAN
+<img width="1038" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/ccc93973-ffaf-4c3d-98a2-52e05d6e39a6">
+
 
 Figura 7 - Tela do Quadro Kanban no GitHub utilizada pelo grupo
 
@@ -68,6 +70,8 @@ Figura 7 - Tela do Quadro Kanban no GitHub utilizada pelo grupo
   <li>Testes (Tests)</li>
 </ul>
 
+<br>
+
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
     <figcaption>Figura 8 - Tela do esquema de cores e categorias</figcaption>
@@ -82,22 +86,22 @@ Figura 7 - Tela do Quadro Kanban no GitHub utilizada pelo grupo
 
 **Ferramentas e Ambiente de Trabalho para Desenvolvimento do Projeto**
 
-➤**GitHub:**
+➤ **GitHub:**
 O GitHub é utilizado como plataforma de hospedagem de repositórios de código fonte. Nele, a equipe mantém todos os arquivos do projeto, permitindo o controle de versão, colaboração entre os membros e revisão de código. Os membros da equipe realizam commits regulares, criam branches para o desenvolvimento de novas funcionalidades ou correção de bugs e abrem pull requests para revisão de código pelos pares.
 
-➤**Microsoft Teams:**
+➤ **Microsoft Teams:**
 O Microsoft Teams é adotado como ferramenta de comunicação e colaboração entre os membros da equipe. Além disso, o Microsoft Teams é utilizado para realizar reuniões virtuais, compartilhar arquivos e documentos importantes, e manter uma comunicação eficaz entre os membros da equipe.
 
-➤**WhatsApp:**
+➤ **WhatsApp:**
 O WhatsApp é empregado como uma ferramenta complementar de comunicação rápida e informal entre os membros da equipe. Embora não seja a principal ferramenta de trabalho, o WhatsApp é utilizado para comunicações urgentes, atualizações rápidas e para manter a equipe conectada mesmo fora do horário de trabalho.
 
-➤**Figma:**
+➤ **Figma:**
 O Figma é utilizado para o design de interfaces e prototipagem de telas. Os designers da equipe utilizaram o Figma para criar Wireframes e o fluxograma (User Flow), permitindo uma colaboração eficaz com os desenvolvedores e uma melhor compreensão das necessidades do projeto.
 
-➤**Ambiente de Trabalho:**
+➤ **Ambiente de Trabalho:**
 Para o desenvolvimento do projeto, os membros da equipe utilizam seus próprios ambientes de trabalho, que geralmente consistem em computadores pessoais ou notebooks com sistemas operacionais compatíveis com as ferramentas de desenvolvimento utilizadas.
 
-➤**Processo de Gestão de Times:**
+➤ **Processo de Gestão de Times:**
 A equipe adota uma abordagem ágil para gerenciamento de projetos, utilizando o SCRUM. O SCRUM orienta a equipe na divisão do trabalho em sprints, realização de reuniões regulares e manutenção de um backlog priorizado de tarefas.
 
 <br>
@@ -106,14 +110,14 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Repositório de código fonte         | GitHub                             | http://https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/tree/main/codigo-fonte                            |
+| Documentos do projeto               | GitHub                             | http://https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat                            |
+| Projeto de Interface                | Figma                              | http://https://www.figma.com/files/project/210114010/Team-project?fuid=1283427850558336048                           |
+| Gerenciamento do Projeto            | GitHub Projects                    | http://https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/979                           |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 <br>
 
 ### Estratégia de Organização de Codificação 
 
-Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte](http://https://github.com/ICEI-PUC-Minas-PMV-ADS/WebApplicationProject-Template-v2/tree/main/codigo-fonte). Consulte também a nossa sugestão referente a estratégia de organização de codificação a ser adotada pela equipe de desenvolvimento do projeto.
+Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto da aplicação foram inseridos na pasta [codigo-fonte](http://https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/tree/main/codigo-fonte). 
