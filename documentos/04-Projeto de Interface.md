@@ -34,5 +34,6 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 ## HomePage ou Tela inicial
 Essa é a tela inicial, onde o usuário irá ver as ongs e os relatos dos voluntarios, no canto superior esquerdo irá ver a logo e no canto superior direito irá
 ter a opção de fazer login
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/1d65d416-fd98-4a5c-887b-0a94cebf2cd4)
 
