@@ -35,7 +35,8 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 Essa é a tela inicial, onde o usuário irá ver as ongs e os relatos dos voluntarios, no canto superior esquerdo irá ver a logo e no canto superior direito irá
 ter a opção de fazer login
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/1d65d416-fd98-4a5c-887b-0a94cebf2cd4)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/46bf490a-30f2-41f7-90f1-0500d16ea091)
+
 
 ## Tela de Login
 Essa tela o usuário irá informar o Email e a senha para fazer o login e ter acesso ao sistema
@@ -62,7 +63,8 @@ Caso na tela de login o usuário tenha esquecido a senha ele será redirecionado
 ## Tela de Perfil 
 Essa é a tela de perfil do usuário, onde ele irá preencher as informações pessoais do mesmo, podendo editar após o preenchimento dos dados.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/cc273552-fee4-4ef9-afbb-ff35f1d95372)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/f8a489bf-9d49-48e2-a877-cbf1a17314e5)
+
 
 ## Tela de Mensagens
 Nessa tela o usuário terá a possibilidade de participar de grupos e de se comunicar com as ongs.
