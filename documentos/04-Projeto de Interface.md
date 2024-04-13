@@ -47,4 +47,11 @@ Essa é a tela de cadastro, onde o usuário ira informar seu nome completo, emai
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/6ae4ea54-fae4-476e-8e4d-40a7f7f0dbf2)
 
+## Tela de Cadastro da Ong
+Essa tela é a tela de cadastro das ongs que apresenta os seguintes campos para serem preenchidos, CNPJ, Email, Razão Social, Data de Criação, Nome Fantasia,
+Telefone Celular, Telefone Fixo, Gênero, inscrição municipal e se o usuario for lider da organização tem a opção de marcar como Chef do grupo e prencher os
+seguintes dados, Cpf do responsavel e nome do resposanvel.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/1fd77af7-0143-46d0-b22d-0bc43ed65862)
+
 
