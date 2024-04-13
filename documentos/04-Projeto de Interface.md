@@ -58,6 +58,18 @@ seguintes dados, Cpf do responsavel e nome do resposanvel.
 Caso na tela de login o usuário tenha esquecido a senha ele será redirecionado para essa tela e terá a opção de preencher o email ou telefone para redefinir a senha.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/d80ae879-3fe5-4d10-b371-fdfa4e46ad2e)
+
+## Tela de Perfil 
+Essa é a tela de perfil do usuário, onde ele irá preencher as informações pessoais do mesmo, podendo editar após o preenchimento dos dados.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/cc273552-fee4-4ef9-afbb-ff35f1d95372)
+
+## Tela de Mensagens
+Nessa tela o usuário terá a possibilidade de participar de grupos e de se comunicar com as ongs.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/8652ac85-6767-4568-9cca-bff55e903f52)
+
+
  
 
 
