@@ -67,7 +67,8 @@ Essa é a tela de perfil do usuário, onde ele irá preencher as informações p
 ## Tela de Mensagens
 Nessa tela o usuário terá a possibilidade de participar de grupos e de se comunicar com as ongs.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/8652ac85-6767-4568-9cca-bff55e903f52)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/5e708ed9-3860-4e51-8a52-c310a2b77271)
 
 
  
