@@ -54,4 +54,10 @@ seguintes dados, Cpf do responsavel e nome do resposanvel.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/1fd77af7-0143-46d0-b22d-0bc43ed65862)
 
+## Tela Esqueceu a senha
+Caso na tela de login o usuário tenha esquecido a senha ele será redirecionado para essa tela e terá a opção de preencher o email ou telefone para redefinir a senha.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/d80ae879-3fe5-4d10-b371-fdfa4e46ad2e)
+ 
+
 
