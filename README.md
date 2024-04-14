@@ -9,7 +9,7 @@
 
 `1º semestre/2024`
 
-O projeto consiste no desenvolvimento de uma Aplicação Web que visa conectar doadores e voluntários a instituições sociais, facilitando o processo de doações e o trabalho voluntário. 
+O Projeto consiste no desenvolvimento de uma Aplicação Web, que visa conectar doadores e voluntários a instituições sociais, facilitando o processo de doações e o trabalho voluntário. 
 
 ## Integrantes
 
