@@ -41,6 +41,7 @@ A tela da Página Principal exibe todo o conteúdo acessível do site. É a prim
 
 <img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/b7a5c9d9-0b04-407d-a217-8aef0a3c8ccb">
 
+Figura 10 - HomePage ou Página Principal
 
 <br>
 
@@ -52,6 +53,7 @@ A tela de Login nos apresenta o local onde o usuário poderá efetuar o seu logi
 
 <img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/de6d70f2-66bf-4b3e-8dc6-fa84a87f300b">
 
+Figura 11 - Tela de Login
 
 <br>
 
@@ -61,6 +63,7 @@ Essa é a tela de Cadastro do Usuário, onde ele informará seus Dados Pessoais 
 
 <img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/0298c752-2017-4900-a49d-2abb88ec0e52">
 
+Figura 12 - Tela de Cadastro do Usuário
 
 <br>
 
@@ -69,12 +72,16 @@ A tela do Formulário de Cadastro de Instituição Social é onde os organizador
 
 <img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/840a9184-fd01-465f-8dc6-4359b13696f9">
 
+Figura 13 - Tela de Formulário de Cadastro de Instituição Social
+
 <br>
 
 ### Tela de Recuperação de Senha
 Caso na tela de Login o usuário tenha esquecido a senha, ele será redirecionado para essa tela e terá a opção de preencher o Email ou Telefone válidos, para receber um código e efetivar a alteração, redefinindo a sua senha.
 
 <img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/3b6c108b-0e1b-443d-a705-e8b14059fec8">
+
+Figura 14 - Tela de Recuperação de Senha
 
 <br>
 
@@ -83,28 +90,35 @@ Após realizar o login, os dados do usuário serão exibidos na tela de Perfil d
 
 <img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/95bf0056-2149-4489-a4be-f87d5259ba12">
 
+Figura 15 - Tela de Perfil 
+
 <br>
 
 ### Tela do Chat Integrado
 
 A funcionalidade de Chat Integrado permitirá que Usuários, Instituições Sociais e outros voluntários troquem mensagens, participem de grupos e se comuniquem entre si, promovendo o estabelecimento de relações e o fortalecimento da proatividade de todos os envolvidos.
 
-
 <img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/3f331b98-ac3b-49cc-822e-691a57904037">
 
+Figura 16 - Tela do Chat Integrado
+
+<br>
 
 ### Tela de Doação 
 Ao clicar em "Doe agora", os usuários serão redirecionados para esta tela. A tela de Doação será um elemento crucial que permitirá aos usuários contribuírem financeiramente para apoiar as causas e projetos da organização. Nela, o usuário poderá informar o valor que deseja doar e para qual Instituição Social. Após a confirmação, o mesmo será redirecionado para a tela de Pagamento.
 
 <img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/9592ff58-58e9-4671-b091-9869fec10272">
 
+Figura 17 - Tela de Doação 
+
+<br>
 
 ### Tela do Pagamento da Doação 
 A tela do Papagmento da Doação desempenhará um papel fundamental na facilitação do processo de doação e na garantia da segurança das transações financeiras. Através dessa tela a doação será efetivada após o pagamento. O usuário apenas conseguirá realizar essa transação se for cadastrado na Plataforma. 
 
 <img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/a6661e75-bb37-47d8-a1ca-c41daeaab489">
 
-
+Figura 18 - Tela do Pagamento da Doação 
  
 
 
