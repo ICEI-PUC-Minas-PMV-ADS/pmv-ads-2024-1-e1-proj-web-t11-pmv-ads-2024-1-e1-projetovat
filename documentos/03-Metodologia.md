@@ -32,7 +32,7 @@ Para a implementação do SCRUM, seguimos as seguintes práticas:
  
 ⁃ *Daily Standup:* Reuniões diárias de curta duração, onde os membros da equipe compartilham o progresso, os obstáculos e as próximas tarefas.
  
-⁃ *Sprint Review:* Ao final de cada sprint, a equipe apresenta o trabalho concluído ao Product Owner e outros stakeholders, obtendo feedback para a próxima iteração.
+⁃ *Sprint Review:* Ao final de cada Sprint, a equipe apresenta o trabalho concluído ao Product Owner e outros stakeholders, obtendo feedback para a próxima iteração.
  
 ⁃ *Sprint Retrospective:* Uma reunião após a Sprint Review, onde a equipe reflete sobre o processo e identifica maneiras de melhorar a eficiência e a qualidade.
 
