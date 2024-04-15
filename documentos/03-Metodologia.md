@@ -28,7 +28,7 @@ Para a implementação do SCRUM, seguimos as seguintes práticas:
 
 - Cerimônias do SCRUM:
  
-⁃ *Sprint Planning:* No início de cada sprint, a equipe realiza uma reunião para selecionar itens do backlog do produto e planejar as atividades para a sprint.
+⁃ *Sprint Planning:* No início de cada Sprint, a equipe realiza uma reunião para selecionar itens do Backlog do Produto e planejar as atividades para a Sprint.
  
 ⁃ *Daily Standup:* Reuniões diárias de curta duração, onde os membros da equipe compartilham o progresso, os obstáculos e as próximas tarefas.
  
