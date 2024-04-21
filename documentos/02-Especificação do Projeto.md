@@ -50,7 +50,7 @@
 | RF-16 | O site deve ter um chat integrado para as ONGs e usuários se comunicarem. | Alta | 
 | RF-17 |A aplicação deve oferecer uma funcionalidade de filtro/barra de pesquisa para permitir ao usuário localizar ONGs e Projetos.| Alta  |
 | RF-18 | O sistema deve permitir que o usuário acesse a lista de instituições cadastradas.  | Alta  | 
-| RF-19 | 19 O sistema deve permitir que o usuário acesse a instituição por categorias. | Alta | 
+| RF-19 | O sistema deve permitir que o usuário acesse a instituição por categorias. | Alta | 
 | RF-20 | O sistema deve permitir que o usuário ordene instituições por raio de distância. | Alta  |
 | RF-21 | A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição. | Alta  | 
 | RF-22 | A aplicação deve solicitar acesso a localização do usuário.  | Baixa  | 
