@@ -40,7 +40,7 @@ Portanto, ao introduzir uma plataforma que simplifica a comunicação entre o p�
 
 # Objetivos
 
-**Objetivos Gerais**
+**Objetivo Geral**
 
 O objetivo geral deste trabalho é utilizar a tecnologia e as ferramentas específicas para desenvolver um software, capaz de alcançar pessoas, divulgar instituições sociais, projetos, campanhas de doações, e consequentemente, facilitar o processo de arrecadações e trabalhos voluntários para essas instituições, tornando-as mais conhecidas pela sociedade. A plataforma integrará ferramentas para doadores/usuários, incluindo pesquisa, chat integrado e verificações de ONGs para garantir sua autenticidade desde o cadastro, facilitando o contato entre pessoas interessadas em voluntariado e instituições necessitadas, promovendo comunicação aberta e transparente para auxiliar na obtenção de recursos.
 
