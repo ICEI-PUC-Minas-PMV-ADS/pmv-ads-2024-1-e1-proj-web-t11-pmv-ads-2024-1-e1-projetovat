@@ -17,7 +17,6 @@ No User Flow do Projeto VAT, os usuários possuem diferentes opções de intera�
 
 A **interatividade** do User Flow poderá ser acessada através do link: https://www.figma.com/proto/bANUURF4LKmlJJdJItJjH2/Projeto-Vat?page-id=0%3A1&type=design&node-id=78-78&viewport=1340%2C726%2C0.23&t=FWhKOIAtbV4HxlZ7-1&scaling=min-zoom&starting-point-node-id=78%3A78&mode=design
 
-E o grupo do Projeto no Figma poderá ser acessado através do link: https://www.figma.com/files/team/1345153450869452796
 
 <br>
 
