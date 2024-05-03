@@ -26,6 +26,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 <h2> Logomarca </h2>
 
 Para a criação da logomarca da Aplicação Web do Projeto VAT - Vida, Arte e Tecnologia, foram selecionadas cuidadosamente as cores e os elementos visuais que melhor representam os valores e objetivos da iniciativa.
+
 <img width="400" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/1f6b7dde-6239-4705-a0c8-1fbc00cd24dd">
 
 Figura X - Logotipo da Aplicação Web do Projeto VAT.
@@ -36,7 +37,7 @@ A cor verde, presente em diferentes tons, foi escolhida para simbolizar a renova
 As mãos estendidas, por sua vez, representando o tronco da árvore, simbolizam a união, a arte, a solidariedade e o espírito de doação que permeiam o voluntariado e o trabalho das ONGs. Elas representam a força da colaboração e o poder da comunidade em realizar mudanças positivas.
 <br></br>
 
-<img width="400" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/8a383064-01e5-4446-85ba-63f22b171adb">
+<img width="416" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/8a383064-01e5-4446-85ba-63f22b171adb">
 
 Figura X - Logotipo da Aplicação Web - Rede de Conexão.
 <br></br>
