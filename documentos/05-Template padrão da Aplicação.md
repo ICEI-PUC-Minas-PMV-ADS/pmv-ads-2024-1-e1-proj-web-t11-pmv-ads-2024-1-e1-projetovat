@@ -12,6 +12,15 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 [Apresente a estrutura padrão da sua aplicação.]
 
+As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
+
+<ul>
+<li>Cores: RGB: ;</li>
+<li>Font-family: .</li>
+<li>Font-size: px e px. </li>
+</ul>
+
+O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado aqui (acrescentar o link para os códigos). As imagens e ícones utilizados no projeto estão disponíveis aqui (acrescentar o link para as imagens).
 <br></br>
 
 > **Links Úteis**:
