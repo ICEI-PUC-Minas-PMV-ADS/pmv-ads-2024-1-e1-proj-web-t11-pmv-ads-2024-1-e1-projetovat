@@ -2,7 +2,7 @@
 # Metodologia
 ## Gerenciamento de Projeto
 
-A Metodologia Ágil escolhida para o desenvolvimento deste Projeto foi o SCRUM. O SCRUM é uma metodologia amplamente adotada para o desenvolvimento de projetos de software. Ele se baseia em princípios iterativos e incrementais, permitindo entregas contínuas e adaptação às mudanças ao longo do processo.
+A Metodologia Ágil escolhida para o desenvolvimento deste Projeto foi o SCRUM. O SCRUM é uma metodologia amplamente adotada para o desenvolvimento de projetos de software. Ele se baseia em princípios iterativos e incrementais, permitindo entregas contínuas e adaptação às mudanças ao longo do processo (SCHWABER; SUTHERLAND, 2017).
 
 <br>
 
