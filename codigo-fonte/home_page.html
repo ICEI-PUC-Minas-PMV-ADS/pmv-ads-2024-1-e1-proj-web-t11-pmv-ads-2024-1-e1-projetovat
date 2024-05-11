@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link id="icone" rel="shortcut icon" href="./assets/icon/Projeto_vat_icon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <title>Projeto Vat</title>
+</head>
+
+<body>
+    <header>
+        <nav class="nav-bar">
+            <div class="logo">
+                <img id="logo_arvore" src="./assets/icon/Texto-do-seu-parágrafo-cópia-2-_1_.ico" alt="Logo do Projeto VAT">
+                <h1 id="PJT">Projeto VAT</h1>
+                <p id="VAT">VIDA, ARTE E TECNOLOGIA</p>
+            </div>
+            <div class="nav-list">
+                <ul>
+                    <li class="nav-item"><a href="#" class="nav-link">Início</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Mensagens</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Contato</a></li>
+                    <li class="doe-agora"><a href="#" class="nav-link">Doe agora</a></li>
+                </ul>
+            </div>
+            <div id="user-icon" class="nav-item"><a href="#" class="nav-link"><i class="fas fa-user fa-lg"></i></a></div>
+        </nav>
+    </header>
+    <main>
+        <div class="banner-image">
+            <div class="carousel">
+                <img src="./assets/imagens/doacaoimg01.jpg" alt="Imagem 1">
+                <img src="./assets/imagens/doacao.jpg" alt="Imagem 2">
+                <img src="./assets/imagens/doacoes-fundo-social-sp-1024x683.jpg" alt="Imagem 3">
+            </div>
+        </div>        
+        <div class="search-bar">
+            <input type="text" placeholder="Digite aqui para buscar">
+            <button type="submit">Buscar</button>
+        </div>
+        <div class="small-images" class="card">
+            <img " src="./assets/imagens/img_boasAcoes.jpg" alt="Imagem 1">
+            <img src="./assets/imagens/melhores_ongs_2024.jpeg" alt="Imagem 2">
+            <img src="./assets/imagens/comida.webp" alt="Imagem 3">
+        </div>
+    </main>
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Projeto VAT. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    <script>
+        $(document).ready(function(){
+            $('.carousel').slick({
+                autoplay: true,
+                autoplaySpeed: 3000,
+                arrows: false,
+                dots: true,
+                infinite: true,
+                speed: 500,
+                fade: true,
+                cssEase: 'linear'
+            });
+        });
+    </script>    
+</body>
+</html>
