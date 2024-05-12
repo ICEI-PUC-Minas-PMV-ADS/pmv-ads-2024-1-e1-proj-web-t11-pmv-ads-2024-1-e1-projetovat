@@ -17,7 +17,6 @@ Resposanvel: Giovanni
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
 - home_page.html
 - home_page.css
 
