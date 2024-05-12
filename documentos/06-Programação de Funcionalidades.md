@@ -4,12 +4,15 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Título da funcionalidade
+### Tela inicial (RF-01)
+Resposanvel: Giovanni
 
-[Adicione imagem da funcionalidade/tela]
+ Quando o usuário entrar na pagina ele ira se deparar com fotos das missões das ONGs.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/aa78bfc9-3347-40e0-8d49-54233ae8f0a8)
 
 
-#### Requisito atendido
+#### RF-01: Na tela inical deve ter um conjunto de fotos das ONGs.
 
 [RF-X: adicione a descrição do requisito atendido]
 
@@ -17,7 +20,8 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 #### Artefatos da funcionalidade
 
 [Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
+- home_page.html
+- home_page.css
 
 #### Estrutura de Dados
 
