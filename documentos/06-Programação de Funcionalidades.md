@@ -14,8 +14,6 @@ Resposanvel: Giovanni
 
 #### RF-01: Na tela inical deve ter um conjunto de fotos das ONGs.
 
-[RF-X: adicione a descrição do requisito atendido]
-
 
 #### Artefatos da funcionalidade
 
