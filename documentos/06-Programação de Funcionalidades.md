@@ -22,12 +22,13 @@ Resposanvel: Giovanni
 
 #### Estrutura de Dados
 
-[Caso exista estrutura de dados, adicione aqui]
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/85d0e59f-6152-48c9-bf17-38976bb7c17f)
+
 
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+[Verifique se está com acesso a internet e abra o navegador com a seguinte URL: ]
 
 
 #### Responsável
