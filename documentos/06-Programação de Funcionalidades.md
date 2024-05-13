@@ -21,15 +21,29 @@ Resposanvel: Giovanni
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/85d0e59f-6152-48c9-bf17-38976bb7c17f)
 
 
-
 #### Instruções de acesso
 
 [Verifique se está com acesso a internet e abra o navegador com a seguinte URL: ]
 
 
-#### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+### Tela de Cadastro (RF-04)
+
+Responsável: Rebeca
+<br>
+
+Exemplo da Tela de Cadastro de ONG.<br>
+![Imagem Tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/b53d7d7a-1000-4c5b-8925-bb287ad675de)
+<br>
+
+RF-04	A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta.
+
+#### Artefatos da funcionalidade
+
+- Cadastro_Instituicao_Scocial.html
+- Cadastro_Instituicao_Scocial.css
+- Cadastro_Instituicao_Scocial.js
+  <br>
 
 ### Tela de Doação (RF-01)
 
