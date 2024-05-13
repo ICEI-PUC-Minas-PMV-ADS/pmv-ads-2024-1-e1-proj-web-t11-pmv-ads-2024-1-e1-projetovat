@@ -26,7 +26,7 @@ Resposanvel: Giovanni
 [Verifique se está com acesso a internet e abra o navegador com a seguinte URL: ]
 
 
-Redefinição de Senha (RF-05, 06, 09 (principal))
+## Redefinição de Senha (RF-05, 06, 09 (principal))
 Resposanvel: Thais
 
 A redefinição de senha será utilizada quando um integrante precisar redefinir sua senha de acesso e poderá ser feito através da opção de Recadastramento de Senha. As estruturas de dados foram baseadas em HTML, CSS e JS.
