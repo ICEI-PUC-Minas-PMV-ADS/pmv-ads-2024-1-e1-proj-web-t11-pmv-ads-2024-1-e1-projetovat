@@ -52,14 +52,8 @@ RF-009: Na tela de cadastro deve ter um formulário contendo os campos de e-mail
 ●redefinicaaodesenha.js
 
 
-#### Estrutura de Dados
-
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
-
-	
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
 
 Ao clicar em “Redefinição de Senha” na página de "Cadastre-se", terá acesso a página de troca de senha.
 
