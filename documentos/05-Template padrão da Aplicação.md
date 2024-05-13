@@ -12,7 +12,7 @@ O design padrão do site foi desenvolvido utilizando as linguagens de marcação
 As páginas contarão com elementos padrão, incluindo o menu de navegação, o cabeçalho (header) e o rodapé (footer), além dos elementos de identidade visual mencionados abaixo:
 
 <ul>
-<li>Cores: RGB: #62724f, #fed6af, #de8b3d, #000, #fff;
+<li>Cores: RGB: #62724f, #fed6af, #de8b3d, #000, #fff.
 </li>
 <li>Font-family: Arial, Helvetica, sans-serif.</li>
 <li>Font-size: 20px e 40px. </li>
