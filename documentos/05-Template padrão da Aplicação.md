@@ -24,9 +24,16 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 <h2> Estrutura Padrão da Aplicação </h2>
 <br></br>
 
-<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/63859c9d-1bad-4756-94ef-27e1fb3535a5">
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/4c4f0da7-30b2-4cd7-a6a1-32dc0e403f37)
 
 Figura 19 - Tela de Pagamento
+
+<br></br>
+
+<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/63859c9d-1bad-4756-94ef-27e1fb3535a5">
+
+Figura 20 - Tela de Pagamento
+
 
 <br></br>
 
@@ -36,7 +43,7 @@ Para a criação da logomarca da Aplicação Web do Projeto VAT - Vida, Arte e T
 
 <img width="400" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/1f6b7dde-6239-4705-a0c8-1fbc00cd24dd">
 
-Figura 20 - Logotipo da Aplicação Web do Projeto VAT.
+Figura 21 - Logotipo da Aplicação Web do Projeto VAT.
 <br></br>
 
 A cor verde, presente em diferentes tons, foi escolhida para simbolizar a renovação, a paz, a harmonia, a natureza, o crescimento e a sustentabilidade. A imagem da árvore com suas folhas, um dos elementos centrais da logomarca, representa esses conceitos de forma clara e impactante (HELLER, 2022).
@@ -46,7 +53,7 @@ As mãos estendidas, por sua vez, representando o tronco da árvore, simbolizam 
 
 <img width="416" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/8a383064-01e5-4446-85ba-63f22b171adb">
 
-Figura 21 - Logotipo da Aplicação Web - Rede de Conexão.
+Figura 22 - Logotipo da Aplicação Web - Rede de Conexão.
 <br></br>
 
 O símbolo no centro da árvore representa uma rede de conexão, que complementa a logomarca, representando a tecnologia como uma ferramenta poderosa para conectar voluntários, organizações e comunidades, facilitando a troca de informações e recursos para promover o bem-estar e o progresso social.
@@ -56,7 +63,7 @@ Para o site, as cores laranja e os tons terrosos foram escolhidos estrategicamen
 <br></br>
 <img width="400" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/03645889-017b-45d3-9bff-440175c85228">
 
-Figura 22 - Protótipo da HomePage do Site do Projeto VAT.
+Figura 23 - Protótipo da HomePage do Site do Projeto VAT.
 <br></br>
 
 Essa combinação de cores e elementos foi cuidadosamente selecionada para transmitir uma mensagem de união, vitalidade, diversidade e compromisso com a comunidade e o meio ambiente, refletindo os valores e objetivos do Projeto VAT e seu propósito de promover a aproximação entre voluntários e ONGs em prol do bem comum.
