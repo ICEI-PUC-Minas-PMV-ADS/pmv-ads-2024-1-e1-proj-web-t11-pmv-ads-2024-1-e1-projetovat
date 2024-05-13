@@ -7,21 +7,17 @@
 
 <br></br>
 
+O design padrão do site foi desenvolvido utilizando as linguagens de marcação HTML e CSS. JavaScript foi empregado para a criação do menu responsivo.
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
-
-[Apresente a estrutura padrão da sua aplicação.]
-
-As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
+As páginas contarão com elementos padrão, incluindo o menu de navegação, o cabeçalho (header) e o rodapé (footer), além dos elementos de identidade visual mencionados abaixo:
 
 <ul>
-<li>Cores: RGB: ;</li>
-<li>Font-family: .</li>
-<li>Font-size: px e px. </li>
+<li>Cores: RGB: #62724f, #fed6af, #de8b3d, #000, #fff;
+</li>
+<li>Font-family: Arial, Helvetica, sans-serif.</li>
+<li>Font-size: 20px e 40px. </li>
 </ul>
 
-O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado aqui (acrescentar o link para os códigos). As imagens e ícones utilizados no projeto estão disponíveis aqui (acrescentar o link para as imagens).
-<br></br>
 
 > **Links Úteis**:
 >
