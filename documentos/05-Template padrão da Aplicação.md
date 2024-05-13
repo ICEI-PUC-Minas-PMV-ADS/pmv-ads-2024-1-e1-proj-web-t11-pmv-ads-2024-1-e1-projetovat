@@ -24,9 +24,9 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 <h2> Estrutura Padrão da Aplicação </h2>
 <br></br>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/4c4f0da7-30b2-4cd7-a6a1-32dc0e403f37)
+<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/b07ea46c-3774-4de7-89de-85f1a57f6fb7">
 
-Figura 19 - Tela de Pagamento
+Figura 19 - Tela Inicial
 
 <br></br>
 
