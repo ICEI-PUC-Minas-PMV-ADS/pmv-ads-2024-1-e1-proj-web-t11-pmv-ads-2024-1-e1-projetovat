@@ -1,18 +1,42 @@
-# Instruções de utilização
+# Programação de Funcionalidades
 
-## Estratégia de Organização de Codificação 
+<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/02-Especificação%20do%20Projeto.md"> Especificação do Projeto</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/03-Metodologia.md"> Metodologia</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/04-Projeto%20de%20Interface.md"> Projeto de Interface</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/05-Arquitetura%20da%20Solução.md"> Arquitetura da Solução</a>
 
-Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organização das pastas e artefatos de implementação no sistema de arquivos, sugerimos que o projeto seja estruturado de modo que cada aluno trabalhe com seus arquivos nas suas respectivas pastas, identificadas por nomes das suas respectivas telas. Por exemplo:
-- Pasta src (root do projeto): index.html, index.css, index.js - Desenvolvedora responsável: Aluna X.
-- Pasta src\clientes: clientes.html, clientes.css, clientes.js - Desenvolvedor responsável: Aluno Y.
-- Pasta src\funcionarios: funcionarios.html, funcionarios.css, funcionarios.js  - Desenvolvedora responsável: Aluna Z.
 
-## Instalação do Site
+### Tela de Cadastro (RF-05, 06 e 09 - principal)
 
-O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um servidor web de sua preferência. Existem diversos servidores web gratuitos que podem ser utilizados, tal como GitHub Pages (GitHub.IO), Vercel, Render, Netlify, Surge.sh, entre outros. Nesse primeiro eixo, recomenda-se inclusive a utilização do GitHub Pages. [Insira o endereço eletrônico público para acessá-lo.] 
+Responsável: Thais
 
-## Histórico de versões
+A tela de Redefinição de senha é chamada a partir da tela de “Cadastre-se”, quando o usuário precisa trocar a senha. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado/Atualizado/Removido
-- Relação de artefatos ...
+Redefinição de Senha:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/59942fae-b4ad-492c-9ea4-9ea4c9137d4d)
+
+#### Requisito atendido
+
+RF-005: No campo de login deverá pedir Nome de usuário e senha
+RF-006 O sistema deve verificar se existe o usuário
+RF-009: Na tela de cadastro deve ter um formulário contendo os campos de e-mail, usuário, senha e confirmar senha, requisito principal a ser atendido.
+
+#### Artefatos da funcionalidade
+
+●redefinicaodesenha.html
+
+●redefnicaodesenha.css
+
+●redefinicaaodesenha.js
+
+
+#### Estrutura de Dados
+
+●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
+
+Ao clicar em “Redefinição de Senha” na página de "Cadastre-se", terá acesso a página de tra ce senha.
+
+<hr>
