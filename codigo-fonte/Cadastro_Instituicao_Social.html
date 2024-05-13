@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROJETO VAT CADASTRO INSTITUIÇÃO SOCIAL</title>
+    <link rel="stylesheet" href="TELA CADASTRO.css">
+    <script src="script.js" defer></script>
+
+</head>
+
+<body>
+    <header>
+        <nav class="nav-bar">
+            <div class="logo">
+                <img id="logo_arvore" src= "imgs/Texto_do_seu_parágrafo_-_cópia_2-removebg-preview (1).png" alt="">
+                <h1 id="PJT">Projeto VAT</h1>
+                <p id = VAT>VIDA, ARTE E TECNOLOGIA</p>
+            </div>
+            <div class="nav-list">
+                <ul>
+                    <li class="nav-item"><a href="#" class="nav-link">Inicio</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Mensagens</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Contato</a></li>
+                    <li class="doe-agora"><a href="#" class="nav-link">Doe agora</a></li>
+                    <li class="user"><a href="#" class="nav-link"><img id="user"src="imgs/user-avatar.png" alt=""></a></li>
+                </ul>
+            </div>
+        
+        
+        
+        
+        </nav>
+    </header>
+    <div class="container"> 
+        <div class="conteúdo">    
+            <div class="titulo">
+                <h2 style="color:white;">Formulario de Cadastro - Instituição Social</h2>
+            </div>
+        
+            <form id="form" >
+               
+               <div id="CNPJ_Email">
+                <label id="label">CNPJ*</label> 
+                <input id="CNPJ" type="text"  >        
+                <label id="label" >Email*</label> 
+                <input id="Email" type="email" >
+                
+               </div>
+               <p></p>
+
+             <div id="RazãoSocial_DtCriação">
+                <label id="label" for="RazãoSocial">Razão Social*</label>
+                <input id="RazãoSocial" type="text" >
+                <label id="label">Data da Criação*</label>
+                <input id="DtCriação" type="date"  placeholder="dd/mm/aaaa" >
+             </div>
+              <p></p>
+
+             <div id="NomeFantasia_Gênero_TelCelular">
+                <label id="label">Nome Fantasia*</label>
+                <input id="NomeFantasia" type="text" >
+                <label id="label">Gênero(a)*</label>
+                <input id="Gênero" type="text"  placeholder="Jurídica" >
+                <label id="label">Tel Celular*</label>
+                <input id="TelCelular" type="tel"  placeholder="( )" >
+             </div>
+
+             <div id="TelFixo_InsMunicipal_Senha">
+                <label id="label">Tel Fixo</label>
+                <input id="TelFixo" type="tel"  placeholder="( )"  pattern="[0-9]{2}[0-9]{8,9}">
+                <label id="label">Inscrição Municipal</label>
+                <input id="InscMunicipal" type="text"  >
+                <label id="label">Senha*</label>
+                <input id="Senha" type="password"  >
+                
+             </div>
+
+              <input id="ChefeGP" type="checkbox"  value="ValordoCheckbox"><label id="chefe" for="ChefedeGrupo">Chefe de Grupo?</label>   
+             
+             
+             <div id="CPF_NomeRSP">
+                <label id="label">CPF</label>
+                <input id="CPF" type="text" >
+                <label id="label">Nome Responsável</label>
+                <input id="nameRSP" type="text" >
+             </div>
+            
+              <div class="botão">
+                                    
+                <button type="back" class="anterior" >Anterior</button>
+                <button type="submit" class="confirmar" >Confirmar Cadastro</button>
+              </div>
+            
+
+              <div class="obs">
+               <img id="Alerta"src="imgs/alerta-removebg-preview.png"alt="">
+                <label class="Alerta" style="font-size: 10px;"><b>* </b>Campos Obrigatórios</label> 
+
+              </div>
+              
+
+            </form> 
+        </div>     
+    </div> 
+</body>
+</html>
