@@ -35,7 +35,30 @@ Resposanvel: Giovanni
 
 [Adicione nome do responsável pelo desenvolvimento da funcionalidade]
 
+### Tela de Doação (RF-01)
+Resposanvel: Letícia 
 
+As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de Doação:
+
+<img width="900" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/a65124ff-9e3e-4585-ad21-20bf31682fe8">
+
+
+### Tela de Pagamento (RF-01)
+Resposanvel: Ariane Moura
+
+Exemplo da tela de Pagamento:
+
+<img width="900" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/23d95363-b396-4cdd-81ab-32de99a89058">
+
+Exemplo da tela de Pagamento com Cartão de Crédito ou Débito:
+
+<img width="900" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/b0b76a7e-dfa7-43c0-8e53-13a3de7e0ce7">
+
+Exemplo da tela de Pagamento com PIX:
+
+<img width="900" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/7febcb5c-27e4-4eb2-b510-dc20e6e4a75c">
 
 
 > **Links Úteis**:
