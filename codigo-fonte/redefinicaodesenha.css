@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: #F0CDAB;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FFFEFE;
+    padding: 20px 40px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+#logo_arvore {
+    width: 70px; 
+    margin-right: 10px;
+}
+
+#img_arvore {
+    width: 300px; 
+    margin-right: 10px;
+}
+
+#PJT {
+    font-size: 24px; 
+    margin-bottom: 5px;
+}
+
+#VAT {
+    font-size: 14px; 
+    color: #666; 
+    padding-left:20px;
+}
+
+.nav-list ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.nav-item {
+    margin-right: 20px;
+}
+
+.nav-item:last-child {
+    margin-right: 0;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+.doe-agora .nav-link {
+    background-color: #62724F; /* ajuste a cor conforme necessário */
+    color: white;
+    padding: 8px 16px;
+    border-radius:100px;
+}
+
+.campo-pesquisa {
+    display: flex;
+    align-items: center;
+    width: 500px; /* Ajuste conforme necessário */
+}
+
+.campo-pesquisa input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    padding: 8px; /* espaço interno */
+}
+
+#campo-valor {
+    width: 200px; /* largura do campo */
+    padding: 8px; /* espaço interno */
+    border: 1px solid #ccc; /* borda */
+    border-radius: 4px; /* bordas arredondadas */
+    outline: none; /* removendo o contorno ao focar */
+}
+
+.titulo{
+    width: 500px; /* largura do campo */
+    background-color: #de8b3d;
+    padding: 5px 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px; /* bordas arredondadas */
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Define a altura da div container como 100% da altura da tela */
+    padding: 10px;
+}
+
+
+.content {
+    text-align: center; /* Alinha o conteúdo ao centro */
+    margin: 20px;
+}
+
+.campo {
+    margin-top: 20px;
+    margin-bottom: 20px; /* Adiciona espaçamento entre os campos */
+}
+
+.campo input {
+
+}
+
+.campo-obrigatorio {
+    font-size: 8px; /* Define o tamanho da fonte */
+}
+
+.enviar {
+    background-color: #de8b3d;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+.box{
+    width: 500px; /* largura do campo */
+    background-color: #f9e9db;
+    padding: 5px 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.obs{
+    margin-top: 20px;
+    text-align: left;
+}
