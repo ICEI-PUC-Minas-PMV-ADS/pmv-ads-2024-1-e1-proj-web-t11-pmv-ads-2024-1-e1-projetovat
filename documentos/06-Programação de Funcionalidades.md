@@ -26,8 +26,43 @@ Resposanvel: Giovanni
 [Verifique se está com acesso a internet e abra o navegador com a seguinte URL: ]
 
 
+Redefinição de Senha (RF-05, 06, 09 (principal))
+Resposanvel: Thais
 
-## Tela de Cadastro (RF-04)
+A redefinição de senha será utilizada quando um integrante precisar redefinir sua senha de acesso e poderá ser feito através da opção de Recadastramento de Senha. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de Redefinição de Senha: 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/0f0695cf-a50e-4b0e-a762-78c4735cdf68)
+
+### Redefinição de Senha (RF-05, 06 e 09 - principal)
+
+#### Requisito atendido
+
+RF-005: No campo de login deverá pedir Nome de usuário e senha
+RF-006 O sistema deve verificar se existe o usuário
+RF-009: Na tela de cadastro deve ter um formulário contendo os campos de e-mail, usuário, senha e confirmar senha, requisito principal a ser atendido.
+
+#### Artefatos da funcionalidade
+
+●redefinicaodesenha.html
+
+●redefnicaodesenha.css
+
+●redefinicaaodesenha.js
+
+
+#### Estrutura de Dados
+
+●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
+
+	
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
+
+Ao clicar em “Redefinição de Senha” na página de "Cadastre-se", terá acesso a página de troca de senha.
+
 
 Responsável: Rebeca
 <br>
