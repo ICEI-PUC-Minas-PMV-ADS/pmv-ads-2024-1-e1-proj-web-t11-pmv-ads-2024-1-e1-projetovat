@@ -45,7 +45,7 @@ RF-04	A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta.
 - Cadastro_Instituicao_Scocial.js
   <br>
 
-### Tela de Doação (RF-01)
+### Tela de Doação (RF-21)
 
 <br>
 
@@ -58,10 +58,14 @@ Ao clicar em "Doe agora", os usuários serão encaminhados para esta página. A 
 
 Exemplo da tela de Doação:
 <br>
-<img width="900" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/a65124ff-9e3e-4585-ad21-20bf31682fe8">
+<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/a65124ff-9e3e-4585-ad21-20bf31682fe8">
+<br>
 
+#### Requisitos atendidos
+RF-21: A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição.
+<br>
 
-### Tela de Pagamento (RF-01)
+### Tela de Pagamento (RF-21)
 
 <br>
 
@@ -74,18 +78,40 @@ A tela de Pagamento da Doação desempenhará um papel crucial na simplificaçã
 
 Exemplo da tela de Pagamento:
 <br>
-<img width="900" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/23d95363-b396-4cdd-81ab-32de99a89058">
+<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/23d95363-b396-4cdd-81ab-32de99a89058">
 
 <br>
 
 Exemplo da tela de Pagamento com Cartão de Crédito ou Débito:
 <br>
-<img width="900" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/b0b76a7e-dfa7-43c0-8e53-13a3de7e0ce7">
+<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/b0b76a7e-dfa7-43c0-8e53-13a3de7e0ce7">
 
 <br>
 
 Exemplo da tela de Pagamento com PIX:
 <br>
-<img width="900" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/7febcb5c-27e4-4eb2-b510-dc20e6e4a75c">
+<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/7febcb5c-27e4-4eb2-b510-dc20e6e4a75c">
 
 <br>
+
+#### Requisitos atendidos
+RF-21: A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição.
+
+<br>
+
+#### Artefatos da funcionalidade
+
+●	pagamentodoacao.html 
+
+●	pagamento.css
+
+●	pagamento.js
+
+<br>
+
+#### Estrutura de Dados
+
+<img width="400" alt="Imagem1" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/a4db371e-71e4-4612-8ba5-4715a9902acd">
+
+
+
