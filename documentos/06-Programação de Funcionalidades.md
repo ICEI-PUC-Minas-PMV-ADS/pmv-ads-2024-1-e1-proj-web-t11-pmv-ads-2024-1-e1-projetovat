@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-### Tela inicial (RF-01)
+## Tela inicial (RF-01)
 Resposanvel: Giovanni
 
  Quando o usuário entrar na pagina ele ira se deparar com fotos das missões das ONGs.
@@ -27,7 +27,7 @@ Resposanvel: Giovanni
 
 
 
-### Tela de Cadastro (RF-04)
+## Tela de Cadastro (RF-04)
 
 Responsável: Rebeca
 <br>
@@ -45,9 +45,8 @@ RF-04	A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta.
 - Cadastro_Instituicao_Scocial.js
   <br>
 
-### Tela de Doação (RF-21)
+## Tela de Doação (RF-21)
 
-<br>
 
 Responsável: Letícia 
 <br>
@@ -61,13 +60,15 @@ Exemplo da tela de Doação:
 <img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/a65124ff-9e3e-4585-ad21-20bf31682fe8">
 <br>
 
-#### Requisitos atendidos
+#### Requisitos atendidos:
 RF-21: A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição.
 <br>
 
-### Tela de Pagamento (RF-21)
 
 <br>
+
+## Tela de Pagamento (RF-21)
+
 
 Responsável: Ariane Moura
 <br>
@@ -94,12 +95,12 @@ Exemplo da tela de Pagamento com PIX:
 
 <br>
 
-#### Requisitos atendidos
+#### Requisitos atendidos:
 RF-21: A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição.
 
 <br>
 
-#### Artefatos da funcionalidade
+#### Artefatos da funcionalidade:
 
 ●	pagamentodoacao.html 
 
@@ -109,7 +110,7 @@ RF-21: A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou
 
 <br>
 
-#### Estrutura de Dados
+#### Estrutura de Dados:
 
 <img width="400" alt="Imagem1" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/a4db371e-71e4-4612-8ba5-4715a9902acd">
 
