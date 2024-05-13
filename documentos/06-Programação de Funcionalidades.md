@@ -58,6 +58,7 @@ RF-009: Na tela de cadastro deve ter um formulário contendo os campos de e-mail
 Ao clicar em “Redefinição de Senha” na página de "Cadastre-se", terá acesso a página de troca de senha.
 
 
+## Formulário de Cadastro (RF-04,)
 Responsável: Rebeca
 <br>
 
