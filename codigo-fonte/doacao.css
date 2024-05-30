@@ -2,75 +2,87 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Arial', Arial, Helvetica, sans-serif;
 }
 
 body {
-    background-color: #F0CDAB;
+    background-color: #fff;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #FFFEFE;
+    background-color: #fff;
     padding: 20px 40px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .nav-bar {
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
+    
 }
-
+.nav-bar-content {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
 .logo {
     display: flex;
     align-items: center;
 }
 
 #logo_arvore {
-    width: 70px; 
+    width: 110px; 
     margin-right: 10px;
 }
 
 #img_arvore {
-    width: 300px; 
+    width: 200px; 
     margin-right: 10px;
 }
 
 #PJT {
-    font-size: 24px; 
+    font-size: 30px; 
     margin-bottom: 5px;
 }
 
 #VAT {
-    font-size: 14px; 
-    color: #666; 
-    padding-left:20px;
+    font-size: 15px; 
+    color: #000; 
+    
 }
 
 .nav-list ul {
+    font-size: 19px;
     list-style: none;
     display: flex;
     align-items: center;
 }
 
 .nav-item {
-    margin-right: 20px;
-}
-
-.nav-item:last-child {
-    margin-right: 0;
+    margin-right: 26px;
 }
 
 .nav-link {
     text-decoration: none;
-    color: black;
+    color: #000;
+}
+
+.user-info img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.doe-agora {
+    margin-right: 30px;
 }
 
 .doe-agora .nav-link {
-    background-color: #62724F; /* ajuste a cor conforme necessário */
-    color: white;
+    background-color: #62724F; 
+    color: #fff;
     padding: 8px 16px;
     border-radius:100px;
 }
