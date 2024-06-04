@@ -63,10 +63,12 @@ Ao clicar em “Esqueceu a Senha?” na página de "Login", terá acesso a pági
 Responsável: Rebeca
 <br>
 
-Exemplo da Tela de Cadastro de ONG.<br>
-![Imagem Tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/b53d7d7a-1000-4c5b-8925-bb287ad675de)
+Exemplo da Tela de Cadastro de Voluntário.<br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/f99b9f84-a735-430d-a1f0-9ab590c3d9e8)
 <br>
-
+Exemplo da Tela de Cadastro de ONG.<br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/461ddeaa-64de-4d6a-a871-1d529b2cdb7e)
+<br>
 RF-04	A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta.
 
 #### Artefatos da funcionalidade
@@ -74,6 +76,9 @@ RF-04	A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta.
 - Cadastro_Instituicao_Scocial.html
 - Cadastro_Instituicao_Scocial.css
 - Cadastro_Instituicao_Scocial.js
+- Cadastro_Voluntário.html
+- Cadastro_Voluntário.css
+- Cadastro_Voluntário.js
   <br>
 
 ## Tela de Doação (RF-21)
