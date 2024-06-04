@@ -64,10 +64,12 @@ Responsável: Rebeca
 <br>
 
 Exemplo da Tela de Cadastro de Voluntário.<br>
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/f99b9f84-a735-430d-a1f0-9ab590c3d9e8)
+![Tela Cadastro Voluntário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/30a500f7-f81e-4488-811c-bad02206f625)
+
 <br>
 Exemplo da Tela de Cadastro de ONG.<br>
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/461ddeaa-64de-4d6a-a871-1d529b2cdb7e)
+![Tela Cadastro ONG](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/b125765c-638e-4ea8-98a1-9ff80cde13ce)
+
 <br>
 RF-04	A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta.
 
