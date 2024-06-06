@@ -47,7 +47,7 @@
 | RF-13 | A aplicação deve permitir que a instituição cadastre ofertas de trabalho voluntario. | Alta  | 
 | RF-14 | O site deve dar a opção do usuário se inscrever em alguma ONG. | Alta  |
 | RF-15 | Um dia antes da missão o site deverá enviar um e-mail para confirmar se o usuário irá comparecer. | Média | 
-| RF-16 | O site deve ter um chat integrado para as ONGs e usuários se comunicarem. | Alta | 
+| RF-16 | O site deve ter uma tela de administrador. | Alta | 
 | RF-17 |A aplicação deve oferecer uma funcionalidade de filtro/barra de pesquisa para permitir ao usuário localizar ONGs e Projetos.| Alta  |
 | RF-18 | A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição. | Alta  | 
 | RF-19 | O site deve ter uma tela de pagamento. | Alta |
