@@ -34,7 +34,7 @@
 |-------|---------------------------------|----|
 | RF-01 | Na tela inicial deve ter um conjunto de fotos das ONGs. | Alta  | 
 | RF-02 |  Na tela principal deverá ter relatos dos voluntários.  | Média |
-| RF-03 |  Na tela principal deverá destacar projetos atuais e futuros. | Alta  | 
+| RF-03 |  Na tela principal deverá destacar projetos atuais. | Alta  | 
 | RF-04 |  A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta. | Alta  | 
 | RF-05 | Na tela inicial deverá ter um icone de perfil para o usuário ser capaz de efetuar o login. | Alta  | 
 | RF-06 | No campo de login deverá pedir nome de usuário e senha. | Alta  |
