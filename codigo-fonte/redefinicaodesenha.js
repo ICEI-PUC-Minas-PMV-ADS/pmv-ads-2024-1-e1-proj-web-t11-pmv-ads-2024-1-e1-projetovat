@@ -1,46 +1,95 @@
-const $ = (elemento) => document.querySelector(elemento);
+const form = document.getElementById("form");
+const email = document.getElementById("email")
+const password = document.getElementById("password")
+const passwordConfirmation = document.getElementById("password-confirmation");
 
-$("#cadastro").addEventListener("click", (ev) => {
-  ev.preventDefault();
-  example@domain.com : true
+''
+form.addEventListener("submit", (event) => {
+  event.preventDefault();
 
-  @helloworld.com : false
-  const email = $("#email").value;
-  const senha = $("#senha").value;
-  const confirmaSenha = $("#confirmasenha").value;
+  checkForm();
+})
 
-  const senhaConfirmada = senha === confirmaSenha;
+email.addEventListener("blur", () => {
+  checkInputEmail();
+})
 
-  if (!senhaConfirmada) {
-    alert("Sua confirmação de senha não confere.\nPor favor verifique.");
-    return;
+
+function checkInputEmail() {
+  const emailValue = email.value;
+
+  if (emailValue === "") {
+    errorInput(email, "O email é obrigatório.")
+  } else {
+    const formItem = email.parentElement;
+    formItem.className = "form-content"
   }
-
-  const tudoPreenchido =
-    email.length !== 0 &&
-    senhaConfirmada.length !== 0 &&
-    senha.length !== 0;
-
-  if (tudoPreenchido === false) {
-    alert("Preencha todos os campos antes de enviar.");
-    return;
-  }
-  if(new String(pfSenha.getPassword()).equals(new String(pfCSenha.getPassword()))) {
-    JOptionPane.showMessageDialog(null, "Senhas conferem!");
-} else {
-    JOptionPane.showMessageDialog(null, "Senhas não conferem!");
 }
 
-  const usuarioCadastrado = {
-    email,
-    senha,
-    confirmaSenha,
-  };
+function checkInputPassword() {
+  const passwordValue = password.value;
+  const hasUppercase = /[A-Z]/.test(passwordValue);
+  const hasLowercase = /[a-z]/.test(passwordValue);
+  const hasNumber = /[0-9]/.test(passwordValue);
+  const hasSpecialChar = /[!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?]+/.test(passwordValue);
 
-  const string = JSON.stringify(usuarioCadastrado);
-  localStorage.setItem("usuario", string);
+  if (passwordValue === "") {
+    errorInput(password, "A senha é obrigatória.")
+  } else if (passwordValue.length < 8) {
+    errorInput(password, "A senha precisa ter no mínimo 8 caracteres.")
+  } else if (!hasUppercase) {
+    errorInput(password, "A senha precisa conter pelo menos uma letra maiúscula.")
+  } else if (!hasLowercase) {
+    errorInput(password, "A senha precisa conter pelo menos uma letra minúscula.")
+  } else if (!hasNumber) {
+    errorInput(password, "A senha precisa conter pelo menos um número.")
+  } else if (!hasSpecialChar) {
+    errorInput(password, "A senha precisa conter pelo menos um caractere especial.")
+  } else {
+    const formItem = password.parentElement;
+    formItem.className = "form-content"
+  }
+}
 
-  alert("Cadastro realizado com sucesso!");
-  window.location.href = "./index.html";
-  
-});
+
+function checkInputPasswordConfirmation() {
+  const passwordValue = password.value;
+  const confirmationPasswordValue = passwordConfirmation.value;
+
+  if (confirmationPasswordValue === "") {
+    errorInput(passwordConfirmation, "A confirmação de senha é obrigatória.")
+  } else if (confirmationPasswordValue !== passwordValue) {
+    errorInput(passwordConfirmation, "As senhas não são iguais.")
+  } else {
+    const formItem = passwordConfirmation.parentElement;
+    formItem.className = "form-content"
+  }
+}
+
+
+function checkForm() {
+  checkInputEmail();
+  checkInputPassword();
+  checkInputPasswordConfirmation();
+
+  const formItems = form.querySelectorAll(".form-content")
+
+  const isValid = [...formItems].every((item) => {
+    return item.className === "form-content"
+  });
+
+  if (isValid) {
+    alert("CADASTRADO COM SUCESSO!");
+    form.reset();
+  }
+}
+
+
+function errorInput(input, message) {
+  const formItem = input.parentElement;
+  const textMessage = formItem.querySelector("a")
+
+  textMessage.innerText = message;
+
+  formItem.className = "form-content error"
+}
