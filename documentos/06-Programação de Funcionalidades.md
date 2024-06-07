@@ -5,7 +5,9 @@ Resposanvel: Giovanni
 
  Quando o usuário entrar na pagina ele ira se deparar com fotos das missões das ONGs.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/aa78bfc9-3347-40e0-8d49-54233ae8f0a8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/c38d71a9-812d-423f-b692-2083311e9ad5)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/2c3f1907-aa01-4e37-aae4-36e59807085f)
+
 
 
 #### RF-01: Na tela inical deve ter um conjunto de fotos das ONGs.
