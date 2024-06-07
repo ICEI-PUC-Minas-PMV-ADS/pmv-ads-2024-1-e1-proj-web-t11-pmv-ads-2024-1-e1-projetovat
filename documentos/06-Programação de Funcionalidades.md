@@ -13,6 +13,10 @@ Exemplo da tela de início:
 
 
 #### RF-01: Na tela inical deve ter um conjunto de fotos das ONGs.
+#### RF-02: Na tela principal deverá ter relatos dos voluntários.
+#### RF-03: Na tela principal deverá destacar projetos atuais.
+#### RF-05: Na tela inicial deverá ter um icone de perfil para o usuário ser capaz de efetuar o login.
+#### RF-10: A home-page deve apresentar fotos e informações sobre as ONGs.
 
 
 #### Artefatos da funcionalidade
