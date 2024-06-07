@@ -41,7 +41,7 @@
 | RF-07 | O sistema deve verificar se existe o usuário. | Alta  | 
 | RF-08 | Na tela de login deverá ter o “esqueci minha senha” no qual redirecionará para uma nova página para recuperação de senha.| Alta  | 
 | RF-09 | Na tela de login deve ter a opção de criar conta.  | Alta  |
-| RF-10 | O site deve apresentar fotos e informações sobre as ONGs. | Alta  | 
+| RF-10 | A home-page deve apresentar fotos e informações sobre as ONGs. | Alta  | 
 | RF-11 | O site deve informar quais dias estão disponíveis para o trabalho de voluntariado. | Alta  |
 | RF-12 | O sistema deve permitir que a instituição cadastre um evento. | Alta  | 
 | RF-13 | A aplicação deve permitir que a instituição cadastre ofertas de trabalho voluntario. | Alta  | 
