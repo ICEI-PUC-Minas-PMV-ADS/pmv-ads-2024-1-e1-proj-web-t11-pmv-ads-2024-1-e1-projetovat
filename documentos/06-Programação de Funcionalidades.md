@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-## Tela inicial (RF-01)
+## Tela inicial (RF-01,02,03,05)
 Resposanvel: Giovanni
 
  Quando o usuário entrar na pagina ele ira se deparar com fotos das missões das ONGs.
