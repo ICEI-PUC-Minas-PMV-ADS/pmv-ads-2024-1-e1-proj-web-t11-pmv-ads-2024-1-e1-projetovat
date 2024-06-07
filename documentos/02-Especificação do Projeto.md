@@ -52,7 +52,7 @@
 | RF-18 | A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição. | Alta  | 
 | RF-19 | O site deve ter uma tela de pagamento. | Alta |
 | RF-20 | O site deve ter uma tela de contato. | Alta |
-
+| RF-21 | O site deve ter uma tela de contato. | Alta |
 
 **Prioridade: Alta / Média / Baixa. 
 
@@ -69,7 +69,7 @@
 | RNF-04  | Sistema compatível com qualquer navegador do mercado.                     | Alta   |
 | RNF-05| Sistema deverá ter segurança para proteção dos dados das ONGs e dos usuários. | Alta   |
 | RNF-06| O sistema deverá ter um ótimo desempenho para lidar com vários usuários de uma única vez. | Alta   |
-| RNF-07| O sistema deverá ser desenvolvido em linguagem Javascript, CSS e HTML. | Alta   |
+| RNF-07| Na tela de Redefinição de Senha, deverá ter a opção para alteração de senha e ser possível o redirecionamento para a página inicial ou de login. | Alta   |
 
 
 
