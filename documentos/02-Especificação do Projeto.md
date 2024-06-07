@@ -52,7 +52,7 @@
 | RF-18 | A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição. | Alta  | 
 | RF-19 | O site deve ter uma tela de pagamento. | Alta |
 | RF-20 | O site deve ter uma tela de contato. | Alta |
-| RF-21 | O site deve ter uma tela de contato. | Alta |
+| RF-21 | Na tela de redefinição de senha, deverá ter a opção para alteração de senha e ser possível o redirecionamento para página inicial ou de login. | Alta |
 
 **Prioridade: Alta / Média / Baixa. 
 
