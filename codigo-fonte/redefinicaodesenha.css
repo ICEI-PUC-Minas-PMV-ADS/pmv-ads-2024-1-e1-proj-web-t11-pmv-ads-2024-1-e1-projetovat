@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Inter', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
 
 body {
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #F0CDAB;
     margin: 0;
     padding: 0;
@@ -23,44 +24,43 @@ header {
     justify-content: space-between;
 }
 
-.logo {
+.logoarvore {
     display: flex;
     align-items: center;
 }
 
-#logo_arvore {
-    width: 70px; 
+#logoarvore img {
+    width: 110px;
     margin-right: 10px;
 }
 
-#img_arvore {
-    width: 300px; 
-    margin-right: 10px;
+.logoarvore div {
+    display: flex;
+    flex-direction: column;
 }
 
-#PJT {
-    font-size: 24px; 
+
+
+#ProjetoVAT {
+    font-size: 30px;
     margin-bottom: 5px;
 }
 
 #VAT {
-    font-size: 14px; 
-    color: #666; 
-    padding-left:20px;
+    font-size: 15px;
+    color: #666;
+
 }
 
 .nav-list ul {
+    font-size: 19px;
     list-style: none;
     display: flex;
     align-items: center;
 }
 
 .nav-item {
-    margin-right: 20px;
-}
-
-.nav-item:last-child {
-    margin-right: 0;
+    margin-right: 60px;
 }
 
 .nav-link {
@@ -68,86 +68,316 @@ header {
     color: black;
 }
 
+.doe-agora {
+    margin-right: 30px;
+}
+
 .doe-agora .nav-link {
-    background-color: #62724F; /* ajuste a cor conforme necessário */
+    background-color: #62724F;
     color: white;
     padding: 8px 16px;
-    border-radius:100px;
+    border-radius: 100px;
 }
 
-.campo-pesquisa {
+.doe-agora .nav-link:hover {
+    color: black;
+}
+
+.nav-item a:hover {
+    color: #3c630e91;
+}
+
+.user-info {
     display: flex;
     align-items: center;
-    width: 500px; /* Ajuste conforme necessário */
 }
 
-.campo-pesquisa input[type="text"] {
-    width: 100%;
-    padding: 8px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    outline: none;
-    padding: 8px; /* espaço interno */
-}
-
-#campo-valor {
-    width: 200px; /* largura do campo */
-    padding: 8px; /* espaço interno */
-    border: 1px solid #ccc; /* borda */
-    border-radius: 4px; /* bordas arredondadas */
-    outline: none; /* removendo o contorno ao focar */
-}
-
-.titulo{
-    width: 500px; /* largura do campo */
-    background-color: #de8b3d;
-    padding: 5px 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 4px; /* bordas arredondadas */
+.user-info img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
 }
 
 .container {
-    display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
-    height: 100vh; /* Define a altura da div container como 100% da altura da tela */
-    padding: 10px;
+    display: grid;
 }
 
-
-.content {
-    text-align: center; /* Alinha o conteúdo ao centro */
-    margin: 20px;
-}
-
-.campo {
-    margin-top: 20px;
-    margin-bottom: 20px; /* Adiciona espaçamento entre os campos */
-}
-
-.campo input {
-
-}
-
-.campo-obrigatorio {
-    font-size: 8px; /* Define o tamanho da fonte */
-}
-
-.enviar {
+.titulo {
+    font-size: 20px;
+    display: center;
     background-color: #de8b3d;
-    padding: 5px 10px;
+    padding: 15px 5px;
     border-radius: 4px;
+    text-align: center;
+    margin-top: 6px;
+    margin-left: 30%;
+    margin-right: 35%;
 }
 
-.box{
-    width: 500px; /* largura do campo */
+form {
+    text-align: center;
+    display: center;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 0 auto;
+    border-radius: 4px;
     background-color: #f9e9db;
-    padding: 5px 10px;
+    padding: 15px 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 4px;
+    margin-left: 30%;
+    margin-right: 35%;
+    margin-bottom: 50px;
 }
 
-.obs{
-    margin-top: 20px;
-    text-align: left;
+h2 {
+    display: center;
+    font-size: 1.5em;
+    margin-block-start: 0, 10em;
+    margin-block-end: 0, 20em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+#label {
+    font-size: 20px;
+    font-family: block;
+    margin-bottom: 5px;
+}
+
+#Email {
+    width: 400px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#NovaSenha {
+    width: 400px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#ConfirmarNovaSenha {
+    width: 400px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+button {
+    font;
+    color: white;
+    background-color: #de8b3d;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40px;
+    float: right;
+    float: left;
+    margin-left: 300px;
+    margin-right: 10px;
+    margin-top: 35px;
+}
+
+button {
+    font;
+    color: white;
+    background-color: #de8b3d;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 40px;
+    float: center;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 25px;
+}
+
+.botaopaginainicial {
+    font;
+    color: white;
+    background-color: #de8b3d;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 40px;
+    float: right;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 25px;
+    text-decoration: none;
+}
+
+#Alerta {
+    width: 20px;
+    height: 20px;
+    margin-left: 8px;
+}
+
+.obs {
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+button:hover {
+    background-color: #f3b46de0;
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: none;
+}
+
+#doeagora:hover {
+    background-color: #9ec5a3e0;
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: none;
+}
+
+#user:hover {
+    background-color: #fcf9f7e0;
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: none;
+}
+
+#ChefeGP {
+    margin-left: 8px;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#chefe {
+    font-size: medium;
+    font-family: block;
+}
+
+.form-content.error a {
+    color: #ff3b25;
+    visibility: inherit;
+}
+
+footer {
+    background-color: #62724f;
+    background: linear-gradient(#8d9d79, #687854, #62724f);
+    padding: 16px;
+    margin-top: 66px;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+.footer-content p {
+    margin: 0 0 20px 0;
+}
+
+.social-icons {
+    display: flex;
+    gap: 16px;
+}
+
+.social-icons img {
+    width: 24px;
+    height: 24px;
+}
+
+@media (max-width: 768px) {
+    .nav-bar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nav-list ul {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .nav-item {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .formulario {
+        padding: 20px;
+        margin: 20px;
+    }
+
+    .form-group {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .form-group input,
+    #seu_texto {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    iframe {
+        width: 100%;
+        height: 350px;
+    }
+
+    footer {
+        padding: 10px;
+    }
+
+    .footer-content {
+        font-size: 12px;
+    }
+
+    .social-icons img {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .nav-list ul {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .nav-item {
+        margin-right: 20px;
+    }
+
+    .formulario {
+        padding: 40px;
+        margin: 30px;
+    }
+
+    .form-group input {
+        min-width: 45%;
+    }
+
+    iframe {
+        width: 100%;
+        height: 450px;
+    }
+
+    footer {
+        padding: 15px;
+    }
+
+    .footer-content {
+        font-size: 13px;
+    }
+
+    .social-icons img {
+        width: 22px;
+        height: 22px;
+    }
 }
