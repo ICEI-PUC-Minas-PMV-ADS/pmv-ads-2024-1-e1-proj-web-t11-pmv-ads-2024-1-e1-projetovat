@@ -4,6 +4,8 @@
 Resposanvel: Giovanni
 
 Quando o usuário acessar a página, ele encontrará fotos, relatos, projetos e informações sobre as ONGs. No canto superior direito, haverá um ícone que permite fazer login ao ser clicado.
+Exemplo da tela de início:
+
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/c38d71a9-812d-423f-b692-2083311e9ad5)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/2c3f1907-aa01-4e37-aae4-36e59807085f)
