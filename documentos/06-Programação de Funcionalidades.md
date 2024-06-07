@@ -37,7 +37,8 @@ A redefinição de senha será utilizada quando um integrante precisar redefinir
 
 Exemplo da tela de Redefinição de Senha: 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/4b75c59e-4678-401a-a153-5b3f5da0c682)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/d77cacd0-7731-4396-af35-411f6aa705a6)
+
 
 
 
