@@ -1,67 +1,135 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redefinição de Senha</title>
-    <link rel="stylesheet" href="redefinicaodesenha.css">
-<script defer src="redefinicaodesenha.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projeto VAT - Tela de Redefinição de Senha</title>
+  <link rel="stylesheet" href="redefinicaodesenha.css">
+  <link rel="stylesheet" href="../../styles/header.css">
 </head>
 
 <body>
-    <header>
-        <formaction= "mailto">
-       
-      
-        <nav class="nav-bar">
-            <div class="logo">
-                <img id="logo_ArvoreProjetocomfundo" src= "C:\Users\DELL\Desktop\Projeto VAT\img\logo_ArvoreProjetocomfundo.png" alt="">
-                <h1 id="PJT">Projeto VAT</h1>
-                <p id = VAT>VIDA, ARTE E TECNOLOGIA</p>
-            </div> 
-            <div class="nav-list">
-                <ul>
-                    <li class="nav-item"><a href="#" class="nav-link">Inicio</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link">Mensagens</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link">Contato</a></li>
-                    <li class="doe-agora"><a href="#" class="nav-link">Doe agora</a></li>
-                </ul>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <div class="content">
-            <img id="ArvoreProjetocomfundo" src= "C:\Users\DELL\Desktop\Projeto VAT\img\ArvoreProjetocomfundo.png" alt=""> 
-            <div class="titulo">
-                <h2 style="color:white;">Redefinição de Senha</h2>
-            </div>
-            <div class="box">
-
-                <form action="">
-                    
-                    
-                    <label for="email">Email:</label>
-                    <input type="email" name="email" id="email" />
-                    
-                    <p><label for="senha">Senha:</label>
-                        <input type="password" name="senha" id="senha"maxlength="8" /></p>
-
-                    <label for="confirma-senha">Confirmação de Senha:</label>
-                    <input type="password" name="confirma-senha" id="confirma-senha"maxlength="8"  />
-                    <div class="botoes">
-                      <input type="submit" class="cadastro" id="cadastro" value="Cadastrar" />
-                      <input type="reset" class="limpa" value="Limpar" />
-                    </div>
-                    
-                  </form>
-                  <script src="./cadastro.js"></script>
-                  </form>
-           
-         
+  <header>
+    <nav class="nav-bar">
+      <div class="logoarvore">
+        <img src="../../images/logoarvore.png" alt="Logomarca">
+        <div>
+          <h1 id="ProjetoVAT">Projeto VAT</h1>
+          <p id="VAT"> VIDA, ARTE E TECNOLOGIA </p>
         </div>
+      </div>
+
+      <div class="nav-bar-content">
+        <div class="nav-list">
+          <ul>
+            <li class="nav-item">
+              <a href="../home/home.html" class="nav-link">Início</a>
+            </li>
+            <li class="nav-item">
+              <a href="" class="nav-link">Mensagens</a>
+            </li>
+            <li class="nav-item">
+              <a href="../contato/contato.html" class="nav-link">Contato</a>
+            </li>
+            <li class="doe-agora">
+              <a href="../doacao/doacao.html" class="nav-link">Doe agora</a>
+            </li>
+          </ul>
         </div>
+
+        <div class="user-info">
+          <a href="../login/login.html">
+            <img src="../../images/user-avatar.png" />
+          </a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <div class="container">
+    <main>
+
+      <div class="titulo">
+        <h2 style="color:white">Redefinição de Senha</h2>
+      </div>
+
+      <form id="form" class="form">
+
+        <div class="container">
+          <section class="header">
+
+          </section>
+
+          <form id="form" class="form">
+
+
+            <div class="form-content">
+              <label for="email"><b>Email</b></label>
+              <p></p>
+              <input type="email" id="email" placeholder="Digite o seu email..." />
+              <p></p><a>
+                <div style="visibility: hidden;">Aqui vai a mensagem de erro...</div>
+              </a>
+            </div>
+
+            <div class="form-content">
+              <label for="password"><b>Senha</b></label>
+              <p></p>
+              <input type="password" id="password" placeholder="Digite sua senha..." maxlength="8" />
+              <p></p>
+
+              <a>
+                <div style="visibility: hidden;">Aqui vai a mensagem de erro...</div>
+              </a>
+            </div>
+
+            <div class="form-content">
+              <label for="password-confirmation"><b>Confirmação de senha</b></label>
+              <p></p>
+              <input type="password" id="password-confirmation" placeholder="Digite sua senha novamente..."
+                maxlength="8" />
+              <p></p>
+              <a>
+                <div style="visibility: hidden;">Aqui vai a mensagem de erro...</div>
+              </a>
+
+              <div>
+                <b>A senha deve conter:</b>
+                <p></p>- Letra maiúscula<p></p>- Letra minúscula<p></p>- Número<p></p>- Caracteres especiais.
+              </div>
+            </div>
+
+            <button type="submit">Alterar Senha </button>
+            <div>
+
+              <a class="botaopaginainicial" href="../home/home.html">Página Inicial</a>
+
+
+
+          </form>
+
+        </div>
+
+      </form>
+    </main>
+  </div>
+  <script src="./redefinicaodesenha.js"></script>
+
+  <footer>
+    <div class="footer-content">
+      <p>&copy; 2024 Projeto VAT. Todos os direitos reservados.</p>
+      <div class="social-icons">
+        <a href="https://www.instagram.com/projetovat" target="_blank">
+          <img id="instagram-icon" src="../../images/instagram.png" alt="Instagram">
+        </a>
+        <img src="../../images/facebook.png" alt="Facebook">
+        <img src="../../images/whatsapp.png" alt="Whatsapp">
+        <img src="../../images/email.png" alt="Email">
+      </div>
     </div>
+  </footer>
 
-    <script src="./script.js"></script>
 </body>
+
 </html>
