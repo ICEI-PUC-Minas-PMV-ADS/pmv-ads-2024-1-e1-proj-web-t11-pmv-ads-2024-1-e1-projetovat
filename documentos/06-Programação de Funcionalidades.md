@@ -4,6 +4,7 @@
 Resposanvel: Giovanni
 
 Quando o usuário acessar a página, ele encontrará fotos, relatos, projetos e informações sobre as ONGs. No canto superior direito, haverá um ícone que permite fazer login ao ser clicado.
+
 Exemplo da tela de início:
 
 
