@@ -26,10 +26,10 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-03 - Verificar a tela de administrador |
 |:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
+| Resultados obtidos | A tela home da acesso a tela de administrador, sendo possivel visualizar informação como Voluntários cadastrados, ONG's cadastradas, Valor em doaçõe e Doações recebidas em tempo real.  |
 | Responsável pela execução do caso de teste | Giovanni |
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/6368f705-978a-481e-ab09-2df6ecbf95d0)
 
 <br>
 
