@@ -44,7 +44,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-05 - Verificar a tela de login |
 |:---|:---|
-| Resultados obtidos | Tela de login vizualizada corretamente. Ao clicar em "Esqueceu a senha?" é redirecionado para tela de redefinição de senha, ao voltar e clicar em "cadastre-se" é redirecionado para tela de cadastro. Na tela de login ao preencher o campo login e senha o usuario é cadastro com sucesso. |
+| Resultados obtidos | Tela de login vizualizada corretamente. Ao clicar em "Esqueceu a senha?" é redirecionado para tela de redefinição de senha, ao voltar e clicar em "cadastre-se" é redirecionado para tela de cadastro . Na tela de login ao preencher o campo login e senha a página informa que o login foi bem-sucedido. |
 | Responsável pela execução do caso de teste | Rebeca |
 
 ![Teste](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/e2819839-f7fc-48b8-85b4-8cd16dedc7ab)
