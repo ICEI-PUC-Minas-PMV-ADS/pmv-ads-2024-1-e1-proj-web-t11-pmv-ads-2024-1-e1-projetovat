@@ -21,8 +21,9 @@ Exemplo da tela de início:
 
 #### Artefatos da funcionalidade
 
-- home_page.html
-- home_page.css
+- home.html
+- home.css
+- home.js
 
 #### Estrutura de Dados
 
