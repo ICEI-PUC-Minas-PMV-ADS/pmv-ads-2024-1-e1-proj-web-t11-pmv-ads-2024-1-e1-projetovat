@@ -44,7 +44,7 @@
 | RF-10 | Na tela de login deverá ter o “esqueceu a senha?” no qual redirecionará para uma nova página para recuperação de senha.| Alta  | 
 | RF-11 | Na tela de login deve ter a opção de se cadastrar.  | Alta  |
 | RF-12 | A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou Instituição e apresentar uma tela de doação. | Alta  | 
-| RF-13 | O site deve ter uma tela de pagamento, onde o usuário poderá escolher entre as opções de pagamento por Cartão de crédito/débito ou PIX. | Alta |
+| RF-13 | O site deve ter uma tela de pagamento, onde o usuário poderá escolher entre as opções de pagamento por cartão de crédito/débito ou PIX. | Alta |
 | RF-14 | O sistema deve fornecer uma tela de redefinição de senha, na qual os usuários possam alterar sua senha. A tela deve permitir o redirecionamento para a página inicial ou de login.  | Alta |
 
 **Prioridade: Alta / Média / Baixa. 
