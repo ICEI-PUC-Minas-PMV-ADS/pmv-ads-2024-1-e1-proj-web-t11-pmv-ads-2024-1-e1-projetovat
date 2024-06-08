@@ -71,15 +71,17 @@ RF-14: O sistema deve fornecer uma tela de Redefinição de Senha, na qual os us
 Ao clicar em “Esqueceu a Senha?” na página de "Login", terá acesso a página de redefinição de senha.
 
 
-## Formulário de Cadastro (RF-04,)
+## Formulário de Cadastro (RF-08,)
 Responsável: Rebeca
 <br>
 
 Exemplo da Tela de Cadastro de Voluntário.<br>
-![Tela Cadastro Voluntário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/30a500f7-f81e-4488-811c-bad02206f625)
+![Tela voluntário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/f4fcb2b6-6779-43e8-bdf8-c0c8fb6dbbe0)
+
 <br>
 Exemplo da Tela de Cadastro de ONG.<br>
-![Tela Cadastro ONG](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/d99119de-9aae-4d64-b96b-241e06a20bce)
+![Tela ONG](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/2df3b4be-ec2e-4f20-b226-e5a07c8fdf6f)
+
 
 <br>
 RF-04	A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta.
