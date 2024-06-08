@@ -140,7 +140,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Preencher todos os campos do formulário e clicar em "Cadastrar".</li>
    </ol>
    </td>
-  <td>As informações fornecidas deverão ser validadas e ao clicar em "Cadastrar" deverá aparecer a mensagem "Usuário cadastrado com sucesso!" e "Instituição Social cadastrada com sucesso!".</td>
+  <td>As informações fornecidas deverão ser validadas e ao clicar em "Cadastrar" deverá aparecer a mensagem "Cadastro realizado com sucesso!" e "Instituição  cadastrada com sucesso!".</td>
   <td>Rebeca</td>
  </tr>
 </table>
