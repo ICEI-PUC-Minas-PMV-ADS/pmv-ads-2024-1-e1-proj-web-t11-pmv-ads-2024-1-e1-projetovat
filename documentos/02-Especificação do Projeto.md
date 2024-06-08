@@ -41,7 +41,7 @@
 | RF-07 | O sistema deve ter um perfil de administrador para gerir as informações relacionadas ao Projeto VAT. | Alta | 
 | RF-08 | A aplicação deve permitir aos usuários e ONG's cadastrarem uma conta. | Alta  |  
 | RF-09 | No campo de login deverá pedir e-mail ou telefone e senha. | Alta  |
-| RF-10 | Na tela de login deverá ter o “esqueceu sua senha?” no qual redirecionará para uma nova página para recuperação de senha.| Alta  | 
+| RF-10 | Na tela de login deverá ter o “esqueceu a senha?” no qual redirecionará para uma nova página para recuperação de senha.| Alta  | 
 | RF-11 | Na tela de login deve ter a opção de se cadastrar.  | Alta  |
 | RF-12 | A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou Instituição e apresentar uma tela de doação. | Alta  | 
 | RF-13 | O site deve ter uma tela de pagamento, onde o usuário poderá escolher entre as opções de pagamento por Cartão de crédito/débito ou PIX. | Alta |
