@@ -27,7 +27,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-03 - Verificar a tela de administrador |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de teste | Nome do integrante da equipe |
+| Responsável pela execução do caso de teste | Giovanni |
 
 [Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
 
