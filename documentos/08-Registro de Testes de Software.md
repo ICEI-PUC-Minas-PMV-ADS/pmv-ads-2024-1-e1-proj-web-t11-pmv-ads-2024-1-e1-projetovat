@@ -71,9 +71,10 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-08 - Verificar a tela de redefinição de senha |
 |:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de teste | Nome do integrante da equipe |
+| Resultados obtidos | Tela de redefinição de senha está perfeitamente visivel. Para acessar a pagina é preciso ir até a pagina login e lá ira encontrar a opção para redefinir a senha. Ao entrar na pagina 
+ira precisar colocar o seu email, a senha e a confirmação da mesma. Ao clicar em "Alterar Senha"  a redefinição estara concluido |
+| Responsável pela execução do caso de teste | Giovanni |
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/4e85cedc-5a5f-49d6-bba4-323f72ace1bd)
 
 <br>
