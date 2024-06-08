@@ -32,27 +32,20 @@
 
 |   ID  |           Descrição             | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 | Na tela inicial deve ter um conjunto de fotos das ONGs. | Alta  | 
-| RF-02 |  Na tela principal deverá ter relatos dos voluntários.  | Média |
-| RF-03 |  Na tela principal deverá destacar projetos atuais. | Alta  | 
-| RF-04 |  A aplicação deve permitir aos usuários e ONGs cadastrarem uma conta. | Alta  | 
+| RF-01 | Na tela inicial deve ter um conjunto de fotos das ONG's. | Alta | 
+| RF-02 | Na tela principal deverá ter relatos dos voluntários.  | Média |
+| RF-03 | Na tela principal deverá destacar projetos atuais. | Alta  | 
+| RF-04 | A tela inicial deve apresentar fotos e informações sobre as ONG's. | Alta  | 
 | RF-05 | Na tela inicial deverá ter um icone de perfil para o usuário ser capaz de efetuar o login. | Alta  | 
-| RF-06 | No campo de login deverá pedir nome de usuário e senha. | Alta  |
-| RF-07 | O sistema deve verificar se existe o usuário. | Alta  | 
-| RF-08 | Na tela de login deverá ter o “esqueci minha senha” no qual redirecionará para uma nova página para recuperação de senha.| Alta  | 
-| RF-09 | Na tela de login deve ter a opção de criar conta.  | Alta  |
-| RF-10 | A home-page deve apresentar fotos e informações sobre as ONGs. | Alta  | 
-| RF-11 | O site deve informar quais dias estão disponíveis para o trabalho de voluntariado. | Alta  |
-| RF-12 | O sistema deve permitir que a instituição cadastre um evento. | Alta  | 
-| RF-13 | A aplicação deve permitir que a instituição cadastre ofertas de trabalho voluntario. | Alta  | 
-| RF-14 | O site deve dar a opção do usuário se inscrever em alguma ONG. | Alta  |
-| RF-15 | Um dia antes da missão o site deverá enviar um e-mail para confirmar se o usuário irá comparecer. | Média | 
-| RF-16 | O site deve ter uma tela de administrador. | Alta | 
-| RF-17 |A aplicação deve oferecer uma funcionalidade de filtro/barra de pesquisa para permitir ao usuário localizar ONGs e Projetos.| Alta  |
-| RF-18 | A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição. | Alta  | 
-| RF-19 | O site deve ter uma tela de pagamento. | Alta |
-| RF-20 | O site deve ter uma tela de contato. | Alta |
-| RF-21 | Na tela de redefinição de senha, deverá ter a opção para alteração de senha e ser possível o redirecionamento para página inicial ou de login. | Alta |
+| RF-06 | O site deve ter uma tela de contato. | Alta |
+| RF-07 | O sistema deve ter um perfil de administrador para gerir as informações relacionadas ao Projeto VAT. | Alta | 
+| RF-08 | A aplicação deve permitir aos usuários e ONG's cadastrarem uma conta. | Alta  |  
+| RF-09 | No campo de login deverá pedir e-mail ou telefone e senha. | Alta  |
+| RF-10 | Na tela de login deverá ter o “esqueceu sua senha?” no qual redirecionará para uma nova página para recuperação de senha.| Alta  | 
+| RF-11 | Na tela de login deve ter a opção de se cadastrar.  | Alta  |
+| RF-12 | A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou Instituição e apresentar uma tela de doação. | Alta  | 
+| RF-13 | O site deve ter uma tela de pagamento, onde o usuário poderá escolher entre as opções de pagamento por Cartão de crédito/débito ou PIX. | Alta |
+| RF-14 | O sistema deve fornecer uma tela de redefinição de senha, na qual os usuários possam alterar sua senha. A tela deve permitir o redirecionamento para a página inicial ou de login.  | Alta |
 
 **Prioridade: Alta / Média / Baixa. 
 
@@ -69,7 +62,6 @@
 | RNF-04  | Sistema compatível com qualquer navegador do mercado.                     | Alta   |
 | RNF-05| Sistema deverá ter segurança para proteção dos dados das ONGs e dos usuários. | Alta   |
 | RNF-06| O sistema deverá ter um ótimo desempenho para lidar com vários usuários de uma única vez. | Alta   |
-| RNF-07| Na tela de Redefinição de Senha, deverá ter a opção para alteração de senha e ser possível o redirecionamento para a página inicial ou de login. | Alta   |
 
 
 
