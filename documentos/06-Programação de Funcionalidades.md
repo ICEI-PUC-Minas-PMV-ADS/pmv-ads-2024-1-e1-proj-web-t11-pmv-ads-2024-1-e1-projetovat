@@ -34,7 +34,7 @@ Exemplo da tela de início:
 [Verifique se está com acesso a internet e abra o navegador com a seguinte URL: ]
 
 
-## Redefinição de Senha (RF-21)
+## Redefinição de Senha (RF-14)
 Resposanvel: Thais
 
 A redefinição de senha será utilizada quando um integrante precisar redefinir sua senha de acesso e poderá ser feito através da opção de Recadastramento de Senha. As estruturas de dados foram baseadas em HTML, CSS e JS.
@@ -48,11 +48,11 @@ Exemplo da tela de Redefinição de Senha:
 
 
 
-### Redefinição de Senha (RF-21)
+### Redefinição de Senha (RF-14)
 
 #### Requisito atendido
 
-RF-21: Na tela de Redefinição de Senha, deverá ter a opção de alteração de senha e ser possível o redirecionamento para a página inicial ou de login.
+RF-14: O sistema deve fornecer uma tela de Redefinição de Senha, na qual os usuários  possam alterar sua senha. A tela deve permitir o redirecionamento para a página inicial ou de login.
 
 
 #### Artefatos da funcionalidade
