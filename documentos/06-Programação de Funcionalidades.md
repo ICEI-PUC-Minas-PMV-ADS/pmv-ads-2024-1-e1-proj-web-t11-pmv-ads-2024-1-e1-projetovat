@@ -27,7 +27,7 @@ Exemplo da tela de início:
 
 #### Estrutura de Dados
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/85d0e59f-6152-48c9-bf17-38976bb7c17f)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/97d045da-7018-4ca9-bc24-4a8667c4a1f7)
 
 
 #### Instruções de acesso
