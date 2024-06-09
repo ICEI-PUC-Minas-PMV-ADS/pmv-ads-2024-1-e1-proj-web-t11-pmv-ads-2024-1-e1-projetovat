@@ -6,9 +6,7 @@
 
 
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir.
-<video width="320" height="240" controls>
- <source src="VIDEO/video 1.mov" type="video/mp4">
-</video> 
+
 <br>
 
 |Caso de Teste    | CT-01 - Verificar as imagens da tela inicial |
