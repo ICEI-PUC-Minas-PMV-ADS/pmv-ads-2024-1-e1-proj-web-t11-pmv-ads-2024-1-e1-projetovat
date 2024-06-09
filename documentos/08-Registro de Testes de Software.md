@@ -21,8 +21,9 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 <br>
 <br>
+
 <video width="320" height="240" controls>
-  <source src="../C:\Users\finet\OneDrive\Área de Trabalho\Projeto VAT\Projeto VAT\pages\home\assets\imagens" type="video/mp4">
+  <source src="video 1.mov" type="video/mp4">
 </video>
 
 <br>
