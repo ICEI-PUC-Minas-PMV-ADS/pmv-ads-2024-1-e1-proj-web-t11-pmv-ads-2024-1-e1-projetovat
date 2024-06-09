@@ -108,7 +108,8 @@ A funcionalidade do Chat Integrado permitirá que Usuários, Instituições Soci
 ### Tela de Doação 
 Ao clicar em "Doe agora", os usuários serão redirecionados para esta tela. A tela de Doação será um elemento crucial que permitirá aos usuários contribuírem financeiramente para apoiar as causas e projetos da organização. Nela, o usuário poderá informar o valor que deseja doar e para qual Instituição Social. Após a confirmação, o mesmo será redirecionado para a tela do Pagamento.
 
-<img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/9592ff58-58e9-4671-b091-9869fec10272">
+<img width="600" alt="image" src="![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165698989/210e48a0-970c-4e70-b84a-f60999540a72)
+">
 
 **Figura 17** - Tela de Doação 
 
