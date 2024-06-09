@@ -9,7 +9,8 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 ![video 1 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/4a0dc961-6870-4bc8-b1ca-bb410f7ca991)
 
-![video 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/58fbfcbc-ea58-4e33-a890-5b744505ae40)
+![video 3(1) (online-video-cutter com)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/fd3b5a7f-1c75-4688-8dbb-859d48f2c713)
+
 
 <br>
 
