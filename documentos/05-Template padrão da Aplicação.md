@@ -4,7 +4,6 @@
 
 <img width="375" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/647395a2-de13-4a2c-b505-15e9dc8567ff">
 
-
 <br></br>
 
 O design padrão do site foi desenvolvido utilizando as linguagens de marcação HTML e CSS. JavaScript foi empregado para a criação do menu responsivo.
@@ -22,7 +21,6 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 <br></br>
 
 <h2> Estrutura Padrão da Aplicação </h2>
-<br></br>
 
 
 <img width="1359" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/51c08f22-5fb7-47ac-976f-f540a413603b">
@@ -31,8 +29,7 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 
 Figura 19 - Tela de Login
 
-
-<br></br>
+<br>
 
 <h2> Logomarca </h2>
 
