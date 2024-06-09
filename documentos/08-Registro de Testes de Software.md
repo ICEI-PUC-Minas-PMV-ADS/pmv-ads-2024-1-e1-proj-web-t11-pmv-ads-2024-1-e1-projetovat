@@ -36,8 +36,8 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-04 - Verificar as telas de cadastros (voluntários e ONG's) |
 |:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de teste | Nome do integrante da equipe |
+| Resultados obtidos | Tela de Cadastro de voluntários e tela de cadastrado de ONG's funcionando corretamente permitindo aos usuários cadastrarem uma conta, preenchendo todos os campos obrigatórios. Caso falte um campo, ele informa o campo faltante e que deve ser preenchido, não finalizando a ação de cadastro.   |
+| Responsável pela execução do caso de teste | Leticia |
 
 [Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
 
