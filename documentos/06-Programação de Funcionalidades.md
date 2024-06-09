@@ -115,7 +115,7 @@ RF-21: A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou
 
 <br>
 
-## Tela de Pagamento (RF-21)
+## Tela de Pagamento (RF-13)
 
 
 Responsável: Ariane Moura
@@ -127,30 +127,33 @@ A tela de Pagamento da Doação desempenhará um papel crucial na simplificaçã
 
 Exemplo da tela de Pagamento:
 <br>
-<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/23d95363-b396-4cdd-81ab-32de99a89058">
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/7f779c66-62cf-43b9-9684-dec477531e25">
+
 
 <br>
 
 Exemplo da tela de Pagamento com Cartão de Crédito ou Débito:
 <br>
-<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/b0b76a7e-dfa7-43c0-8e53-13a3de7e0ce7">
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/3ceba056-91ac-4a12-9b29-5c4e2721cf1a">
+
 
 <br>
 
 Exemplo da tela de Pagamento com PIX:
 <br>
-<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/7febcb5c-27e4-4eb2-b510-dc20e6e4a75c">
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/6d6d3167-7121-499e-b132-ee0d0f79e5a8">
+
 
 <br>
 
 #### Requisitos atendidos:
-RF-21: A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição.
+RF-13: O site deve ter uma tela de pagamento, onde o usuário poderá escolher entre as opções de pagamento por cartão de crédito/débito ou PIX.
 
 <br>
 
 #### Artefatos da funcionalidade:
 
-●	pagamentodoacao.html 
+●	pagamento.html 
 
 ●	pagamento.css
 
