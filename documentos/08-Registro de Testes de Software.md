@@ -39,7 +39,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Tela de Cadastro de voluntários e tela de cadastrado de ONG's funcionando corretamente permitindo aos usuários cadastrarem uma conta, preenchendo todos os campos obrigatórios. Caso falte um campo, ele informa o campo faltante e que deve ser preenchido, não finalizando a ação de cadastro.   |
 | Responsável pela execução do caso de teste | Leticia |
 
-[[image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165698989/b8eced7a-4b83-4a94-aad1-e0b7398bd7f1)]
+[image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165698989/b8eced7a-4b83-4a94-aad1-e0b7398bd7f1)
 
 <br>
 
