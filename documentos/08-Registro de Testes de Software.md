@@ -1,5 +1,3 @@
-# Registro de Testes de Software
-
 <span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/blob/main/documentos/04-Projeto%20de%20Interface.md"> Projeto de Interface</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/blob/main/documentos/07-Plano%20de%20Testes%20de%20Software.md"> Plano de Testes de Software</a>
 
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir.
@@ -29,7 +27,10 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | A tela home da acesso a tela de administrador, sendo possivel visualizar informação como Voluntários cadastrados, ONG's cadastradas, Valor em doaçõe e Doações recebidas em tempo real.  |
 | Responsável pela execução do caso de teste | Giovanni |
 
+<br>
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/6368f705-978a-481e-ab09-2df6ecbf95d0)
+
 
 <br>
 
@@ -47,7 +48,10 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Tela de login vizualizada corretamente. Ao clicar em "Esqueceu a senha?" é redirecionado para tela de redefinição de senha, ao voltar e clicar em "cadastre-se" é redirecionado para tela de cadastro . Na tela de login ao preencher o campo login e senha a página informa que o login foi bem-sucedido. |
 | Responsável pela execução do caso de teste | Rebeca |
 
+<br>
+
 ![Teste](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/e2819839-f7fc-48b8-85b4-8cd16dedc7ab)
+
 
 <br>
 
@@ -56,18 +60,39 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | A tela de doação está visível e funcionando corretamente. O usuário consegue escrever o valor da sua doação e o nome da Instituição Social que deseja ajudar. Ao clicar em confirmar o usuário é redirecionado para a tela de pagamento.  |
 | Responsável pela execução do caso de teste | Thais |
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+<br>
+
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/a0c46c37-97a1-4e2d-8167-55710b4ba134">
 
 <br>
+<br>
+
 
 |Caso de Teste    | CT-07 - Verificar a tela de pagamento |
 |:---|:---|
 | Resultados obtidos | A tela de pagamento está visível e funcionando perfeitamente. O usuário consegue optar pelo pagamento com cartão de crédito/débito ou PIX. Ao clicar na opção desejada o usuário é redirecionado corretamente. É possível visualizar a tela e preencher os dados. Ao clicar em confirmar com cartão de crédito/débito, o pagamento é efetuado.  |
 | Responsável pela execução do caso de teste | Thais |
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+<br>
+
+
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/e08a8fb6-6965-4457-9dc4-970bd15583d8">
+
 
 <br>
+
+
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/b76efe8f-2bfc-48bf-bb02-88284c695880">
+
+
+<br>
+
+
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/d5e42fff-5052-4842-8ecf-a85296f206d5">
+
+
+<br>
+
 
 |Caso de Teste    | CT-08 - Verificar a tela de redefinição de senha |
 |:---|:---|
