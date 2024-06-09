@@ -25,9 +25,11 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 <br></br>
 
 
-<img width="700" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/63859c9d-1bad-4756-94ef-27e1fb3535a5">
+<img width="1359" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/51c08f22-5fb7-47ac-976f-f540a413603b">
 
-Figura 19 - Tela de Pagamento
+
+
+Figura 19 - Tela de Login
 
 
 <br></br>
