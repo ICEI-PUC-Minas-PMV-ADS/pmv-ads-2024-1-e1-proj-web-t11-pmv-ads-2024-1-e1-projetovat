@@ -98,7 +98,7 @@ Ao clicar em "Doe agora", os usuários serão encaminhados para esta página. A 
 
 Exemplo da tela de Doação:
 <br>
-<img width="600" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165698989/210e48a0-970c-4e70-b84a-f60999540a72">
+![Tela Doação] https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165698989/210e48a0-970c-4e70-b84a-f60999540a72
 
 <br>
 
