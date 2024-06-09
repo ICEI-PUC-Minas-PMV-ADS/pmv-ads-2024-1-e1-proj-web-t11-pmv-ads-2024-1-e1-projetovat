@@ -61,7 +61,7 @@ Ao clicar em “Esqueceu a Senha?” na página de "Login", terá acesso a pági
 
 <br>
 
-## Formulário de Cadastro (RF-08)
+## Telas de cadastros (RF-08)
 Responsável: Rebeca
 <br>
 
