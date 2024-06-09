@@ -6,6 +6,13 @@
 
 
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir.
+<br>
+<video width="320" height="240" controls>
+ <source src="VIDEO/video 1.mov" type="video/mp4">
+</video> 
+
+
+
 
 <br>
 
