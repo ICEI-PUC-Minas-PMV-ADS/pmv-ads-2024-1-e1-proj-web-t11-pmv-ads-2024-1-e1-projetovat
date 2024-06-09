@@ -6,15 +6,13 @@
 
 
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir.
-<br>
-<video width="320" height="240" controls>
- <source src="VIDEO/video 1.mov" type="video/mp4">
-</video> 
 
+![video 1 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/4a0dc961-6870-4bc8-b1ca-bb410f7ca991)
 
-
+![video 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/58fbfcbc-ea58-4e33-a890-5b744505ae40)
 
 <br>
+
 
 |Caso de Teste    | CT-01 - Verificar as imagens da tela inicial |
 |:---|:---|
