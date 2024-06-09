@@ -7,19 +7,40 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-01 - Verificar as imagens da tela inicial |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de teste | Nome do integrante da equipe |
+| Responsável pela execução do caso de teste | Ariane |
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+<br>
 
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/c5f29278-6198-408e-9adf-f685379dce5a">
+
+<br>
+<br>
+
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/120a0e7a-fffe-4aae-b0b0-f98c2a7fea08">
+
+<br>
+<br>
+
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/87b2a3e5-6ae1-42b4-9940-cca75ee42ab4">
+
+<br>
 <br>
 
 |Caso de Teste    | CT-02 - Verificar a tela de contato |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de teste | Nome do integrante da equipe |
+| Responsável pela execução do caso de teste | Ariane |
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+<br>
 
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/e0d1ad2a-9bb4-4b60-a94b-0ccc8a018e92">
+
+<br>
+<br>
+
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/caf76165-056f-4b69-a1e0-203f75804dfe">
+
+<br>
 <br>
 
 |Caso de Teste    | CT-03 - Verificar a tela de administrador |
