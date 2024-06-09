@@ -29,13 +29,9 @@ Exemplo da tela de início:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/97d045da-7018-4ca9-bc24-4a8667c4a1f7)
 
+<br>
 
-#### Instruções de acesso
-
-[Verifique se está com acesso a internet e abra o navegador com a seguinte URL: ]
-
-
-## Redefinição de Senha (RF-14)
+## Tela de redefinição de senha (RF-14)
 Resposanvel: Thais
 
 A redefinição de senha será utilizada quando um integrante precisar redefinir sua senha de acesso e poderá ser feito através da opção de Recadastramento de Senha. As estruturas de dados foram baseadas em HTML, CSS e JS.
@@ -43,13 +39,6 @@ A redefinição de senha será utilizada quando um integrante precisar redefinir
 Exemplo da tela de Redefinição de Senha: 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/d77cacd0-7731-4396-af35-411f6aa705a6)
-
-
-
-
-
-
-### Redefinição de Senha (RF-14)
 
 #### Requisito atendido
 
@@ -70,15 +59,18 @@ RF-14: O sistema deve fornecer uma tela de Redefinição de Senha, na qual os us
 
 Ao clicar em “Esqueceu a Senha?” na página de "Login", terá acesso a página de redefinição de senha.
 
+<br>
 
-## Formulário de Cadastro (RF-08,)
+## Formulário de Cadastro (RF-08)
 Responsável: Rebeca
 <br>
 
-Exemplo da Tela de Cadastro de Voluntário.<br>
+Exemplo da Tela de Cadastro de Voluntário:<br>
 ![Tela voluntário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/f4fcb2b6-6779-43e8-bdf8-c0c8fb6dbbe0)
 
-Exemplo da Tela de Cadastro de ONG.<br>
+<br>
+
+Exemplo da Tela de Cadastro de ONG:<br>
 ![Tela ONG](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/2df3b4be-ec2e-4f20-b226-e5a07c8fdf6f)
 
 <br>
@@ -91,6 +83,7 @@ RF-08	A aplicação deve permitir aos usuários e ONG's cadastrarem uma conta.
 - Cadastro_Voluntário.html
 - Cadastro_Voluntário.css
 - Cadastro_Voluntário.js
+
   <br>
 
 ## Tela de Doação (RF-21)
@@ -117,39 +110,34 @@ RF-21: A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou
 
 ## Tela de Pagamento (RF-13)
 
-
 Responsável: Ariane Moura
-<br>
-
-A tela de Pagamento da Doação desempenhará um papel crucial na simplificação do processo de doação e na garantia da segurança das transações financeiras.O  usuário terá a opção de escolher entre pagar com cartão de crédito, débito ou PIX. É importante ressaltar que apenas os usuários cadastrados na plataforma poderão realizar essa transação.
 
 <br>
 
-Exemplo da tela de Pagamento:
+A tela de Pagamento da Doação desempenhará um papel crucial na simplificação do processo de doação e na garantia da segurança das transações financeiras. O  usuário terá a opção de escolher entre pagar com cartão de crédito, débito ou PIX. É importante ressaltar que apenas os usuários cadastrados na plataforma poderão realizar essa transação.
+
+<br>
+
+Tela de Pagamento:
 <br>
 <img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/7f779c66-62cf-43b9-9684-dec477531e25">
 
 
 <br>
 
-Exemplo da tela de Pagamento com Cartão de Crédito ou Débito:
+Tela de Pagamento com Cartão de Crédito ou Débito:
 <br>
 <img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/3ceba056-91ac-4a12-9b29-5c4e2721cf1a">
 
 
 <br>
 
-Exemplo da tela de Pagamento com PIX:
+Tela de Pagamento com PIX:
 <br>
 <img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/6d6d3167-7121-499e-b132-ee0d0f79e5a8">
 
-
-<br>
-
 #### Requisitos atendidos:
 RF-13: O site deve ter uma tela de pagamento, onde o usuário poderá escolher entre as opções de pagamento por cartão de crédito/débito ou PIX.
-
-<br>
 
 #### Artefatos da funcionalidade:
 
@@ -159,11 +147,56 @@ RF-13: O site deve ter uma tela de pagamento, onde o usuário poderá escolher e
 
 ●	pagamento.js
 
-<br>
-
 #### Estrutura de Dados:
 
 <img width="400" alt="Imagem1" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/a4db371e-71e4-4612-8ba5-4715a9902acd">
 
+<br>
+<br>
 
+## Tela de Login (RF-09, 10 e 11)
+
+Responsável: Letícia Oliveira e Ariane Moura
+
+<br>
+
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/b2affdeb-2deb-4fde-b861-6f586c502df6">
+
+#### Requisitos atendidos:
+RF-09: No campo de login deverá pedir e-mail ou telefone e senha.
+RF-10: Na tela de login deverá ter o “esqueceu a senha?” no qual redirecionará para uma nova página para recuperação de senha.
+RF-11: Na tela de login deve ter a opção de se cadastrar.
+
+#### Artefatos da funcionalidade:
+
+●	login.html 
+
+●	login.css
+
+●	login.js
+
+<br>
+
+## Tela do Administrador (RF-07)
+
+Responsável: Ariane Moura
+
+<br>
+
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/3271a00e-7231-4b25-a9b7-a7ef611c3ec0">
+
+#### Requisitos atendidos:
+RF-07: O sistema deve ter um perfil de administrador para gerir as informações relacionadas ao Projeto VAT.
+
+#### Artefatos da funcionalidade:
+
+●	admin.html 
+
+●	admin.css
+
+●	admin.js
+
+#### Estrutura de Dados:
+
+<img width="523" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/01cd5926-9284-40af-9c0c-7ba66c21f14d">
 
