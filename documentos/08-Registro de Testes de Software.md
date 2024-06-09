@@ -1,12 +1,15 @@
 <span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/blob/main/documentos/04-Projeto%20de%20Interface.md"> Projeto de Interface</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/blob/main/documentos/07-Plano%20de%20Testes%20de%20Software.md"> Plano de Testes de Software</a>
 
+<br>
+
+
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir.
 
 <br>
 
 |Caso de Teste    | CT-01 - Verificar as imagens da tela inicial |
 |:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
+| Resultados obtidos | A tela inicial exibiu todas as imagens corretamente posicionadas e perfeitamente visíveis, com toda a estrutura atendendo aos padrões esperados. |
 | Responsável pela execução do caso de teste | Ariane |
 
 <br>
@@ -28,7 +31,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-02 - Verificar a tela de contato |
 |:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
+| Resultados obtidos | O sistema apresenta a tela de contato funcional e estruturada conforme aos padrões esperados.  |
 | Responsável pela execução do caso de teste | Ariane |
 
 <br>
@@ -45,14 +48,14 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-03 - Verificar a tela de administrador |
 |:---|:---|
-| Resultados obtidos | A tela home da acesso a tela de administrador, sendo possivel visualizar informação como Voluntários cadastrados, ONG's cadastradas, Valor em doaçõe e Doações recebidas em tempo real.  |
+| Resultados obtidos | Na tela de administrador é possível visualizar informações como voluntários cadastrados, ONG's cadastradas, valor em doações e doações recebidas em tempo real, sendo possível gerir os dados relacionados ao Projeto VAT.  |
 | Responsável pela execução do caso de teste | Giovanni |
 
 <br>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/118924567/6368f705-978a-481e-ab09-2df6ecbf95d0)
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/ea186bc7-074e-4678-b844-b37ac9d9406c">
 
-
+<br>
 <br>
 
 |Caso de Teste    | CT-04 - Verificar as telas de cadastros (voluntários e ONG's) |
