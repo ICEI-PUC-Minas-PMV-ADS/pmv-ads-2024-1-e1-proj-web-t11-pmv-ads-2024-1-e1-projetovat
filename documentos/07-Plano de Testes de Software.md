@@ -46,8 +46,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
-<br>
-
 <table>
  <tr>
   <th>Caso de teste</th>
@@ -75,8 +73,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Giovanni</td>
  </tr>
 </table>
-
-<br>
 
 <table>
  <tr>
@@ -107,8 +103,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Ariane</td>
  </tr>
 </table>
-
-<br>
 
 <table>
  <tr>
@@ -144,9 +138,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Rebeca</td>
  </tr>
 </table>
-
-<br>
-
 <table>
  <tr>
   <th>Caso de teste</th>
@@ -179,8 +170,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Visualizar todas as páginas corretamente e ser redirecionado para as respectivas telas.</td>
   <td>Ariane e Letícia</td>
  </tr>
-
-<br>
 
  <table>
  <tr>
@@ -215,8 +204,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
-<br>
-
  <table>
  <tr>
   <th>Caso de teste</th>
@@ -249,8 +236,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Ariane</td>
  </tr>
 </table>
-
-<br>
  
  <table>
  <tr>
