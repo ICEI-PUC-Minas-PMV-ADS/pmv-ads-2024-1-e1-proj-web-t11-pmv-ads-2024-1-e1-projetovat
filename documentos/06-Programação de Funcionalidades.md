@@ -67,8 +67,6 @@ Ao clicar em “Esqueceu a Senha?” na página de "Login", terá acesso a pági
 #### Exemplo da Tela de Cadastro de Voluntário:
 ![Tela voluntário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/f4fcb2b6-6779-43e8-bdf8-c0c8fb6dbbe0)
 
-<br>
-
 #### Exemplo da Tela de Cadastro de ONG:
 ![Tela ONG](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/2df3b4be-ec2e-4f20-b226-e5a07c8fdf6f)
 
