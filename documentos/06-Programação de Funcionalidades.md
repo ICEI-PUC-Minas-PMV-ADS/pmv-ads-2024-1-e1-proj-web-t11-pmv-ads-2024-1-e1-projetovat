@@ -84,6 +84,14 @@ RF-08	A aplicação deve permitir aos usuários e ONG's cadastrarem uma conta.
 - Cadastro_Voluntário.js
 
   <br>
+### Estrutura de Dados:
+![Sem Título](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/c48689aa-d459-4793-b2ee-01bc76b1f849)
+
+
+![Sem Título](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/be03d939-3214-458b-af08-bc510f8c27c9)
+
+
+<br>
 
 ## Tela de Doação (RF-21)
 
