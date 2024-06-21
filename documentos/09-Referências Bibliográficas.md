@@ -32,7 +32,7 @@ MEDEIROS, Christian et al. DESAFIO DO PROJETO INTEGRADOR: A PSICOLOGIA DAS CORES
 
 Porfírio, Francisco. "Organização não governamental (ONG)". **Brasil Escola**. Disponível em: <https://brasilescola.uol.com.br/geografia/organizacao-nao- governamental-ong.htm\>. Acesso em: 8 de mar. 2024.
 
-**Portal do Impacto.** Os desafios das ONGs pequenas**. Disponível em: https://www.portaldoimpacto.com/os-desafios-das-ongs-pequenas. Acesso em: Acesso em: 9 de mar. 2024.
+**Portal do Impacto.** Os desafios das ONGs pequenas. Disponível em: https://www.portaldoimpacto.com/os-desafios-das-ongs-pequenas. Acesso em: Acesso em: 9 de mar. 2024.
 
 Ricardo Silveira: **Constituição jurídica das ONG’s** – Lei 9.790/99 – Lei 13.019/14 – Parceiros  Voluntários:  IBGE  calcula  participação  do  terceiro setor – Abong: dados sobre ONG’s – IPEA: relação entre Estado e ONG’s – Código Civil – TOZZI, José Alberto. S.O.S da ONG. São Paulo: Gente, 2015. Acesso em: 8 de mar. 2024.
 
