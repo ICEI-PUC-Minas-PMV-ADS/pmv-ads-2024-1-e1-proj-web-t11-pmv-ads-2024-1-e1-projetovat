@@ -1,0 +1,124 @@
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto VAT - Tela de Cadastro Voluntário</title>
+    <link rel="stylesheet" href="cadastro_voluntario.css">
+    <link rel="stylesheet" href="../../styles/header.css">
+    <script src="cadastro_voluntario.js" defer=""></script>
+</head>
+
+<body>
+    <header>
+        <nav class="nav-bar">
+            <div class="logoarvore">
+                <img src="../../images/logoarvore.png" alt="Logomarca">
+                <div>
+                    <h1 id="ProjetoVAT">Projeto VAT</h1>
+                    <p id="VAT"> VIDA, ARTE E TECNOLOGIA </p>
+                </div>
+            </div>
+
+            <div class="nav-bar-content">
+                <div class="nav-list">
+                    <ul>
+                        <li class="nav-item">
+                            <a href="../home/home.html" class="nav-link">Início</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="" class="nav-link">Mensagens</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="../contato/contato.html" class="nav-link">Contato</a>
+                        </li>
+                        <li class="doe-agora">
+                            <a href="../doacao/doacao.html" class="nav-link">Doe agora</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="user-info">
+                    <img src="../../images/user-avatar.png" />
+                    <div id="dropdown" class="dropdown-content">
+                        <button id="cadastro-voluntario" onclick="redirecionarCadastroVoluntario()">Cadastrar voluntário</button>
+
+                        <button id="cadastro-ong" onclick="redirecionarCadastroOng()">Cadastrar ONG</button>
+
+                        <button id="login-logout" onclick="checkUsuario()">Login</button>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="titulo">
+        <h2>Formulário de Cadastro - Voluntário</h2>
+    </div>
+    <main class="container">
+        <div class="content">
+            <div class="left-content">
+                <img src="Images/img voluntario.png" alt="Imagem Cadastro Voluntario">
+            </div>
+            <div class="right-content">
+                <div class="box">
+                    <img src="Images/arvore.editado.png" alt="Logomarcaeditado">
+
+                    <form class="cadastro-form" id="form-voluntario">
+
+                        <label id="label" for="Nome">Nome Completo*</label>
+                        <input id="Nome" name="Nome" type="text" placeholder="Digite seu nome completo" required>
+
+                        <label id="label" for="Email">E-mail*</label>
+                        <input id="Email" name="Email" type="email" required>
+
+                        <label id="label" for="TelCelular">Tel Celular*</label>
+                        <input id="TelCelular" name="TelCelular" type="tel" placeholder="(xx) xxxxx-xxxx">
+
+                        <label id="label" for="Senha">Senha*</label>
+                        <input id="Senha" name="Senha" type="password" minlength="6" placeholder="Mínimo 6 dígitos"
+                            required>
+
+                        <label id="label" for="confirmaSenha">Confirmar Senha*</label>
+                        <input id="confirmaSenha" name="confirmaSenha" type="password" minlength="6" required>
+
+                        <p>*Campos Obrigatórios</p>
+
+                        <div class="botão">
+                            <button onclick="return cadastrar()" type="submit" class="confirmar">Confirmar
+                                Cadastro</button>
+                        </div>
+
+                    </form>
+
+                    <div class="options">
+                        <p class="fim">Já tem conta?
+                            <a href="../login/login.html">Entre</a> ou
+
+                            <a href="../cadastro_ong/cadastro_ong.html">Cadastre-se como ONG</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Projeto VAT. Todos os direitos reservados.</p>
+            <div class="social-icons">
+                <a href="https://www.instagram.com/projetovat" target="_blank">
+                    <img id="instagram-icon" src="../../images/instagram.png" alt="Instagram">
+                </a>
+                <img src="../../images/facebook.png" alt="Facebook">
+                <img src="../../images/whatsapp.png" alt="Whatsapp">
+                <img src="../../images/email.png" alt="Email">
+            </div>
+        </div>
+    </footer>
+
+    <script src="../../funcoes/autenticacao.js"></script>
+</body>
+
+</html>
