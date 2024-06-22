@@ -39,7 +39,7 @@ O Projeto consiste no desenvolvimento de uma Aplicação Web, que visa conectar 
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* Insira o endereço eletrônico público de acesso ao conteúdo publicado https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/codigo-fonte/paginaHome/home.html. 
 
 # Código-Fonte
 
