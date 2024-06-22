@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto VAT - Tela do Administrador</title>
+    <link rel="stylesheet" href="./admin.css">
+    <link rel="stylesheet" href="../../styles/header.css">
+
+   
+</head>
+
+<body>
+    <header>
+        <nav class="nav-bar">
+            <div class="logoarvore">
+                <img src="../../images/logoarvore.png" alt="Logomarca">
+                <div>
+                    <h1 id="ProjetoVAT">Projeto VAT</h1>
+                    <p id="VAT"> VIDA, ARTE E TECNOLOGIA </p>
+                </div>
+            </div>
+
+            <div class="nav-bar-content">
+                <div class="nav-list">
+                    <ul>
+                        <li class="nav-item">
+                            <a href="../home/home.html" class="nav-link">Início</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="" class="nav-link">Mensagens</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="../contato/contato.html" class="nav-link">Contato</a>
+                        </li>
+                        <li class="doe-agora">
+                            <a href="../doacao/doacao.html" class="nav-link">Doe agora</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="user-info">
+                    <img src="../../images/user-avatar.png" />
+                    <div id="dropdown" class="dropdown-content">
+                        <button id="cadastro-voluntario" onclick="redirecionarCadastroVoluntario()">Cadastrar voluntário</button>
+
+                        <button id="cadastro-ong" onclick="redirecionarCadastroOng()">Cadastrar ONG</button>
+
+                        <button id="login-logout" onclick="checkUsuario()">Login</button>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <div class="header-content">
+                <span>Seja bem-vindo, Administrador</span>
+                <strong id="date"></strong>
+            </div>
+
+            <div class="cards">
+                <div class="card">
+                    <strong>Voluntários cadastrados</strong>
+                    <span id="quantidade_voluntarios"></span>
+                </div>
+
+                <div class="card">
+                    <strong>ONG's cadastradas</strong>
+                    <span id="quantidade_ongs"></span>
+                </div>
+
+                <div class="card">
+                    <strong>Valor em doações</strong>
+                    <span id="total_valor_doacoes"></span>
+                </div>
+
+                <div class="card">
+                    <strong>Doações recebidas</strong>
+                    <span id="num_doacoes"></span>
+                </div>
+
+            </div>
+            
+            <div class="tables-data">
+                <div class="table-ongs">
+                    <table class="table">
+                        <h1>
+                            Instituições Sociais Cadastradas
+                        </h1>
+                        <thead>
+                            <tr>
+                                <th scope="col"></th>
+                                <th scope="col">Nome</th>
+                                <th scope="col">E-mail</th>
+                                <th scope="col">Telefone</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-ongs">
+
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="table-voluntarios">
+                    <table class="table">
+                        <h1>
+                            Voluntários Cadastrados
+                        </h1>
+                        <thead>
+                            <tr>
+                                <th scope="col"></th>
+                                <th scope="col">Nome</th>
+                                <th scope="col">E-mail</th>
+                                <th scope="col">Telefone</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-voluntarios">
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="graficos">
+                <div class="grafico1">
+                    <canvas id="myChart1"></canvas>
+                </div>
+
+                <div class="grafico2">
+                    <canvas id="myChart2"></canvas>
+                </div>
+            </div>
+
+            <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+            <script>
+                const ctx = document.getElementById('myChart1');
+
+                const doacoes = localStorage.getItem('@VAT:doacoes_recebidas')
+                
+                const doacoesJson = doacoes ? JSON.parse(doacoes) : []
+
+                const labels = doacoesJson.map((doacoes) => doacoes.institution)
+
+                const valoresDoacoes = doacoesJson.map((doacoes) => doacoes.valorTotal)
+                
+                new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels,
+                        datasets: [{
+                            label: 'Valores em Doações (R$)',
+                            data: valoresDoacoes,
+                            backgroundColor: [
+                                'rgba(255, 99, 132, 0.2)',
+                                'rgba(255, 159, 64, 0.2)',
+                                'rgba(255, 205, 86, 0.2)',
+                                'rgba(75, 192, 192, 0.2)',
+                                'rgba(54, 162, 235, 0.2)',
+                                'rgba(153, 102, 255, 0.2)',
+                                'rgba(201, 203, 207, 0.2)'
+                            ],
+                            borderColor: [
+                                'rgb(255, 99, 132)',
+                                'rgb(255, 159, 64)',
+                                'rgb(255, 205, 86)',
+                                'rgb(75, 192, 192)',
+                                'rgb(54, 162, 235)',
+                                'rgb(153, 102, 255)',
+                                'rgb(201, 203, 207)'
+                            ],
+                            borderWidth: 1
+
+                        }]
+                    },
+
+                    options: {
+                        scales: {
+                            x: {
+                                title: {
+                                    display: true,
+                                    text: 'Organizações'
+                                }
+                            },
+
+                            y: {
+                                beginAtZero: true,
+                                title: {
+                                    display: true,
+                                    text: 'Valor (R$)'
+                                }
+                            }
+                        }
+                    }
+                });
+
+                const ctx2 = document.getElementById('myChart2');
+
+                const quantidadeDoacoes = doacoesJson.map((doacao) => {
+                    const acumulado = doacao.doacoes.length
+
+                    return acumulado
+                })
+
+                new Chart(ctx2, {
+                    type: 'pie',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: 'Quantidade de Doações',
+                            data: quantidadeDoacoes,
+                            borderWidth: 1
+                        }]
+                    },
+                });
+
+            </script>
+        </div>
+    </div>
+
+    <script src="./admin.js"></script>
+
+    <script src="../../funcoes/autenticacao.js"></script>
+
+</body>
+
+</html>
