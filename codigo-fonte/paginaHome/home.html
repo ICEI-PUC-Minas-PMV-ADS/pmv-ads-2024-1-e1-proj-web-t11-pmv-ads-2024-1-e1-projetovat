@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./home.css">
+    <link rel="stylesheet" href="../../styles/header.css">
+    <link id="icone" rel="shortcut icon" href="./assets/icon/Projeto_vat_icon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+    <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" />
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <script src="home.js" defer></script>
+
+    
+    
+    <title>Projeto VAT - Tela de Início</title>
+</head>
+
+<body>
+    <div class="popup-container" id="popup">
+        <div class="popup-content">
+            <div class="popup-left">
+                <img src="./assets/imagens/Rio grande do sul .jpg" alt="Imagem do Rio Grande do Sul">
+            </div>
+            <div class="popup-right">
+                <h2>Ajude o Rio Grande do Sul!</h2>
+                <p>Faça uma doação para ajudar as ONGs do Rio Grande do Sul. Sua contribuição pode fazer a diferença!
+                </p>
+                <img src="./assets/imagens/qrcode-pix.png" alt="QR Code">
+                <button onclick="fecharPopup()">Fechar</button>
+            </div>
+        </div>
+    </div>
+    <header>
+        <nav class="nav-bar">
+            <div class="logoarvore">
+                <img src="../../images/logoarvore.png" alt="Logomarca">
+                <div>
+                    <h1 id="ProjetoVAT">Projeto VAT</h1>
+                    <p id="VAT"> VIDA, ARTE E TECNOLOGIA </p>
+                </div>
+            </div>
+
+            <div class="nav-bar-content">
+                <div class="nav-list">
+                    <ul>
+                        <li class="nav-item">
+                            <a href="../home/home.html" class="nav-link">Início</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="../contato/contato.html" class="nav-link">Contato</a>
+                        </li>
+                        <li class="nav-item" id="admin-menu">
+                            <a href="../admin/admin.html" class="nav-link">Administrador</a>
+                        </li>
+                        <li class="doe-agora">
+                            <a href="../doacao/doacao.html" class="nav-link">Doe agora</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="user-info">
+                    <img src="../../images/user-avatar.png" />
+                    <div id="dropdown" class="dropdown-content">
+                        <button id="cadastro-voluntario" onclick="redirecionarCadastroVoluntario()">Cadastrar voluntário</button>
+
+                        <button id="cadastro-ong" onclick="redirecionarCadastroOng()">Cadastrar ONG</button>
+
+                        <button id="login-logout" onclick="checkUsuario()">Login</button>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="search-bar">
+        <input id="search-input" type="text" placeholder="Digite aqui a ONG que procura">
+        <button id="search-button" type="submit">Buscar</button>
+        <ul id="search-history"></ul>
+        <ul id="search-suggestions" style="display: none;"></ul>
+    </div>
+    <main>
+        <div class="banner-image">
+            <div class="carousel">
+                <img src="./assets/imagens/96081.jpg" alt="Imagem 1">
+                <img src="./assets/imagens/doacao.jpg" alt="Imagem 2">
+                <img src="./assets/imagens/Doe para quem realmente precisa.png" alt="Imagem 3">
+            </div>
+        </div>
+        <div class="small-images">
+            <div class="card">
+                <img src="./assets/imagens/img_boasAcoes.jpg" alt="Imagem 1">
+                <div class="card-content">
+                    <h3>ONG Boa Ação</h3>
+                    <p>A ONG Boa Ação dedica-se a melhorar a vida de comunidades carentes através de iniciativas de
+                        educação, saúde e desenvolvimento sustentável. Nossa missão é criar oportunidades e proporcionar
+                        um futuro melhor para todos.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="./assets/imagens/imundacao.webp" alt="Imagem 2">
+                <div class="card-content">
+                    <h3>Ajude o Rio Grande do Sul</h3>
+                    <p>Doe alimentos, roupas e medicamentos para famílias carentes. Voluntarie-se em abrigos e centros
+                        comunitários. Contribua financeiramente para ONGs locais. Participe de campanhas de arrecadação
+                        e eventos beneficentes. Juntos, podemos fazer a diferença e trazer esperança ao Rio Grande do
+                        Sul.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="./assets/imagens/comida.webp" alt="Imagem 3">
+                <div class="card-content">
+                    <h3>ONG Comida Para Todos</h3>
+                    <p>A ONG Comida Para Todos luta contra a fome e a desnutrição, distribuindo alimentos para famílias
+                        em situação de pobreza. Nosso objetivo é garantir que ninguém durma com fome e promover a
+                        segurança alimentar em nossa comunidade.</p>
+                </div>
+            </div>
+        </div>
+        <section id="testimonials">
+            <h2>O que os nossos usuários dizem</h2>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <img src="./assets/Fotos usuarios/foto mulher 1.jpg" alt="Foto de Ana Souza"
+                        class="testimonial-photo">
+                    <p class="testimonial-text"><strong>Ana Souza:</strong>"Este site mudou minha vida! As informações
+                        são sempre atualizadas e confiáveis."</p>
+                </div>
+                <div class="testimonial-card">
+                    <img src="./assets/Fotos usuarios/foto homem 1.jpg" alt="Foto de Carlos Lima"
+                        class="testimonial-photo">
+                    <p class="testimonial-text"><strong>Carlos Lima:</strong>"Excelente plataforma, fácil de usar e
+                        muito informativa. Recomendo a todos!"</p>
+                </div>
+                <div class="testimonial-card">
+                    <img src="./assets/Fotos usuarios/Mulher 2.jpg" alt="Foto de Mariana Oliveira"
+                        class="testimonial-photo">
+                    <p class="testimonial-text"><strong>"Mariana Oliveira:</strong> "O conteúdo é incrível e as dicas
+                        realmente funcionam. Parabéns pelo trabalho!"</p>
+                </div>
+                <div class="testimonial-card">
+                    <img src="./assets/Fotos usuarios/homem 2.jpg" alt="Foto de João Ferreira"
+                        class="testimonial-photo">
+                    <p class="testimonial-text"><strong>João Ferreira:</strong> "Encontrei tudo o que precisava em um só
+                        lugar. Atendimento excelente!"</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Projeto VAT. Todos os direitos reservados.</p>
+            <div class="social-icons">
+                <a href="https://www.instagram.com/projetovat" target="_blank">
+                    <img id="instagram-icon" src="../../images/instagram.png" alt="Instagram">
+                </a>
+                <img src="../../images/facebook.png" alt="Facebook">
+                <img src="../../images/whatsapp.png" alt="Whatsapp">
+                <img src="../../images/email.png" alt="Email">
+            </div>
+        </div>
+    </footer>
+
+    <script src="../../funcoes/autenticacao.js"></script>
+</body>
+
+</html>
