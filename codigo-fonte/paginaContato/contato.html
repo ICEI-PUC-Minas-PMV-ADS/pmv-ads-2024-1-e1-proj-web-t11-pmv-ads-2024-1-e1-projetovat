@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="../../styles/header.css">
+    <link id="icone" rel="shortcut icon" href="/ProjetoVat/home_page_Vat/assets/icon/Projeto_vat_icon.ico"
+        type="image/x-icon">
+    <link rel="stylesheet" href="./contato.css">
+    <title>Projeto VAT - Tela de Contato</title>
+    <script src="contato.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav class="nav-bar">
+            <div class="logoarvore">
+                <img src="../../images/logoarvore.png" alt="Logomarca">
+                <div>
+                    <h1 id="ProjetoVAT">Projeto VAT</h1>
+                    <p id="VAT"> VIDA, ARTE E TECNOLOGIA </p>
+                </div>
+            </div>
+
+            <div class="nav-bar-content">
+                <div class="nav-list">
+                    <ul>
+                        <li class="nav-item">
+                            <a href="../home/home.html" class="nav-link">Início</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="" class="nav-link">Mensagens</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="../contato/contato.html" class="nav-link">Contato</a>
+                        </li>
+                        <li class="doe-agora">
+                            <a href="../doacao/doacao.html" class="nav-link">Doe agora</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="user-info">
+                    <img src="../../images/user-avatar.png" />
+                    <div id="dropdown" class="dropdown-content">
+                        <button id="cadastro-voluntario" onclick="redirecionarCadastroVoluntario()">Cadastrar voluntário</button>
+
+                        <button id="cadastro-ong" onclick="redirecionarCadastroOng()">Cadastrar ONG</button>
+
+                        <button id="login-logout" onclick="checkUsuario()">Login</button>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="formulario">
+            <h2>Entre em contato através do formulário de e-mail</h2>
+            <form id="formulario_contato">
+                <div class="form-group">
+                    <input id="Enviar" type="text" placeholder="Nome Completo">
+                    <input id="phone" type="tel" placeholder="Seu Telefone">
+                    <input id="form_email" type="email" placeholder="Seu Email">
+                    <input id="form_cidade" type="text" placeholder="Sua Cidade">
+                </div>
+                <input id="seu_texto" type="text" placeholder="Sua mensagem">
+                <button id="buttom_enviar" type="submit">Enviar</button>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Projeto VAT. Todos os direitos reservados.</p>
+            <div class="social-icons">
+                <a href="https://www.instagram.com/projetovat" target="_blank">
+                    <img id="instagram-icon" src="../../images/instagram.png" alt="Instagram">
+                </a>
+                <img src="../../images/facebook.png" alt="Facebook">
+                <img src="../../images/whatsapp.png" alt="Whatsapp">
+                <img src="../../images/email.png" alt="Email">
+            </div>
+        </div>
+    </footer>
+
+    <script src="../../funcoes/autenticacao.js"></script>
+</body>
+
+</html>
