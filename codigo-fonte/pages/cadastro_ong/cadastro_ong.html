@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto VAT - Tela de Cadastro ONG</title>
+    <link rel="stylesheet" href="./cadastro_ong.css">
+    <link rel="stylesheet" href="../../styles/header.css">
+    <script src="./cadastro_ong.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <nav class="nav-bar">
+            <div class="logoarvore">
+                <img src="../../images/logoarvore.png" alt="Logomarca">
+                <div>
+                    <h1 id="ProjetoVAT">Projeto VAT</h1>
+                    <p id="VAT"> VIDA, ARTE E TECNOLOGIA </p>
+                </div>
+            </div>
+
+            <div class="nav-bar-content">
+                <div class="nav-list">
+                    <ul>
+                        <li class="nav-item">
+                            <a href="../home/home.html" class="nav-link">Início</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="" class="nav-link">Mensagens</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="../contato/contato.html" class="nav-link">Contato</a>
+                        </li>
+                        <li class="doe-agora">
+                            <a href="../doacao/doacao.html" class="nav-link">Doe agora</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="user-info">
+                    <img src="../../images/user-avatar.png" />
+                    <div id="dropdown" class="dropdown-content">
+                        <button id="cadastro-voluntario" onclick="redirecionarCadastroVoluntario()">Cadastrar voluntário</button>
+
+                        <button id="cadastro-ong" onclick="redirecionarCadastroOng()">Cadastrar ONG</button>
+
+                        <button id="login-logout" onclick="checkUsuario()">Login</button>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="titulo">
+        <h2>Formulário de Cadastro - Instituição Social</h2>
+    </div>
+
+    <div class="container">
+
+        <form id="form" name="form">
+            <div>
+                <label for="CNPJ">CNPJ*</label>
+                <input id="CNPJ" name="CNPJ" type="text" required>
+                <label for="Email">Email*</label>
+                <input id="Email" name="Email" type="email" required>
+
+            </div>
+
+            <div>
+                <label for="RazãoSocial">Razão Social*</label>
+                <input id="RazãoSocial" name="RazãoSocial" type="text" required>
+                <label for="DtCriação">Data da Criação*</label>
+                <input id="DtCriação" type="date" name="DtCriação" placeholder="dd/mm/aaaa" required>
+            </div>
+
+            <div>
+                <label for="NomeFantasia">Nome Fantasia*</label>
+                <input id="NomeFantasia" name="NomeFantasia" type="text" required>
+                <label for="Gênero">Gênero(a)*</label>
+                <input id="Gênero" name="Gênero" type="text" placeholder="Jurídica" required>
+                <label for="TelCelular">Tel Celular*</label>
+                <input id="TelCelular" name="TelCelular" type="tel" placeholder="(00)000000000" required>
+            </div>
+
+            <div>
+                <label for="TelFixo">Tel Fixo*</label>
+                <input id="TelFixo" name="TelFixo" type="tel" placeholder="( )" pattern="[0-9]{2}[0-9]{8,9}" required>
+                <label for="InscMunicipal">Inscrição Municipal</label>
+                <input id="InscMunicipal" name="InscMunicipal" type="text">
+                <label for="Senha">Senha*</label>
+                <input id="Senha" name="Senha" type="password" minlength="6" required>
+
+            </div>
+
+            <div class="checkbox">
+                <label for="ChefeGp">Chefe de Grupo</label>
+                <input id="ChefeGP" type="checkbox">
+            </div>
+
+            <div>
+                <label id="label">CPF</label>
+                <input id="CPF" for="CPF" name="CPF" type="text">
+                <label id="label">Nome Responsável</label>
+                <input id="nameRSP" name="nameRSP" type="text">
+            </div>
+            <div class="botão">
+
+                <button class="form-button" onclick="redirecionarInicio()">Anterior</button>
+                <button class="form-button" onclick="cadastrar()" type="submit" class="confirmar">Confirmar Cadastro</button>
+            </div>
+
+            <p class="obs">*Campos Obrigatórios</p>
+
+        </form>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Projeto VAT. Todos os direitos reservados.</p>
+            <div class="social-icons">
+                <a href="https://www.instagram.com/projetovat" target="_blank">
+                    <img id="instagram-icon" src="../../images/instagram.png" alt="Instagram">
+                </a>
+                <img src="../../images/facebook.png" alt="Facebook">
+                <img src="../../images/whatsapp.png" alt="Whatsapp">
+                <img src="../../images/email.png" alt="Email">
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="../../funcoes/autenticacao.js"></script>
+</body>
+
+</html>

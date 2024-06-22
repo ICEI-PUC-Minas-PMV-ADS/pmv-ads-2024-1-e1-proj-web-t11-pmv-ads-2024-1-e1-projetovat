@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto VAT - Tela de Doação</title>
+    <link rel="stylesheet" href="doacao.css">
+
+    <link rel="stylesheet" href="../../styles/header.css">
+    <script src="doacao.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <nav class="nav-bar">
+            <div class="logoarvore">
+                <img src="../../images/logoarvore.png" alt="Logomarca">
+                <div>
+                    <h1 id="ProjetoVAT">Projeto VAT</h1>
+                    <p id="VAT"> VIDA, ARTE E TECNOLOGIA </p>
+                </div>
+            </div>
+
+            <div class="nav-bar-content">
+                <div class="nav-list">
+                    <ul>
+                        <li class="nav-item">
+                            <a href="../home/home.html" class="nav-link">Início</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="" class="nav-link">Mensagens</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="../contato/contato.html" class="nav-link">Contato</a>
+                        </li>
+                        <li class="doe-agora">
+                            <a href="../doacao/doacao.html" class="nav-link">Doe agora</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="user-info">
+                    <img src="../../images/user-avatar.png" />
+                    <div id="dropdown" class="dropdown-content">
+                        <button id="cadastro-voluntario" onclick="redirecionarCadastroVoluntario()">Cadastrar voluntário</button>
+
+                        <button id="cadastro-ong" onclick="redirecionarCadastroOng()">Cadastrar ONG</button>
+
+                        <button id="login-logout" onclick="checkUsuario()">Login</button>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    
+
+    <div class="container">
+        <div class="content">
+            <div class="header-content">
+                <div class="logopequena">
+                    <img src="./img/logopequena.png" alt="Logo">
+                </div>
+                <div class="titulo">
+                    <h1>Doar Agora</h1>
+                </div>
+            </div>
+            <div class="box">
+                <form id="donationForm">
+                    <div class="campo">
+                        <p>Valor da doação:</p>
+                        <input type="text" id="campo-valor" placeholder="R$0,00">
+                    </div>
+                    <div class="campo">
+                        <p>Para qual Instituição deseja doar?</p>
+                        <div class="campo-pesquisa">
+                            <input type="text" placeholder="Digite o nome da Instituição" id="campo-instituicao">
+                        </div>
+                    </div>
+                    <button type="button" class="confirmar" style="color:white;"
+                        onclick="submitDonation()">Confirmar</button>
+                    <div class="obs">
+                        <p class="campo-obrigatorio">Campos Obrigatórios</p>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Projeto VAT. Todos os direitos reservados.</p>
+            <div class="social-icons">
+                <a href="https://www.instagram.com/projetovat" target="_blank">
+                    <img id="instagram-icon" src="../../images/instagram.png" alt="Instagram">
+                </a>
+                <img src="../../images/facebook.png" alt="Facebook">
+                <img src="../../images/whatsapp.png" alt="Whatsapp">
+                <img src="../../images/email.png" alt="Email">
+            </div>
+        </div>
+    </footer>
+
+    <script src="../../funcoes/autenticacao.js"></script>
+</body>
+
+</html>
