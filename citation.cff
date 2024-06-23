@@ -1,1 +1,25 @@
-
+message: Please cite this software using these metadata.
+title:
+authors:
+  - family-names: Silveira Almeida Moura
+    given-names: Ariane
+  - family-names: Finetto Santos
+    given-names: Giovanni
+  - family-names: de Oliveira Silva
+    given-names: Letícia 
+  - family-names: da Conceição Custódio 
+    given-names: Rebeca 
+  - family-names: de Paula Porto Maia 
+    given-names: Thais  
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Soares Vieira de Vasconcelos
+    given-names: Amália
+  - name-suffix: Professor
+    affiliation: PUC Minas 
+keywords:
+  - Projeto 
+  - VAT
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat
+version: 1.0.0
+date-released: 2024-06-22
