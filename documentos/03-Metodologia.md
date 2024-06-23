@@ -114,7 +114,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat                            |
 | Projeto de Interface                | Figma                              | https://www.figma.com/proto/bANUURF4LKmlJJdJItJjH2/Projeto-Vat?page-id=0%3A1&type=design&node-id=78-78&viewport=1340%2C726%2C0.23&t=FWhKOIAtbV4HxlZ7-1&scaling=min-zoom&starting-point-node-id=78%3A78&mode=design                          |
 | Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/979                           |
-| Hospedagem                          | GitHub Pages                       | -                           |
+| Hospedagem                          | GitHub Pages                       | https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/codigo-fonte/pages/home/home.html                          |
 
 <br>
 
