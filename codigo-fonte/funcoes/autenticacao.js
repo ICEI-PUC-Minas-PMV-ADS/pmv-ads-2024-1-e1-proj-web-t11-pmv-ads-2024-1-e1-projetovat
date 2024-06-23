@@ -8,9 +8,9 @@ function checkUsuario() {
 
         alert('Você foi desconectado!')
 
-        window.location.href = '../home/home.html';
+        window.location.href = '../pages/home/home.html';
     } else {
-        window.location.href = '../login/login.html';
+        window.location.href = '../pages/login/login.html';
     }
 }
 
@@ -48,11 +48,11 @@ function checkLogin() {
 }
 
 function redirecionarCadastroVoluntario(){
-    window.location.href = '../cadastro_voluntario/cadastro_voluntario.html';
+    window.location.href = '../pages/cadastro_voluntario/cadastro_voluntario.html';
 }
 
 function redirecionarCadastroOng(){
-    window.location.href = '../cadastro_ong/cadastro_ong.html';
+    window.location.href = '../pages/cadastro_ong/cadastro_ong.html';
 }
 
 checkIsAdmin()

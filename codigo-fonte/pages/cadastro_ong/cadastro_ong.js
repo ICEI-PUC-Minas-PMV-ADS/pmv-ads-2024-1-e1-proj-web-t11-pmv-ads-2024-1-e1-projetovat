@@ -74,7 +74,7 @@ function cadastrar() {
 }
 
 function redirecionarInicio() {
-  window.location.href = "/pages/cadastro_voluntario/cadastro_voluntario.html";
+  window.location.href = "../cadastro_voluntario/cadastro_voluntario.html";
 }
 
 

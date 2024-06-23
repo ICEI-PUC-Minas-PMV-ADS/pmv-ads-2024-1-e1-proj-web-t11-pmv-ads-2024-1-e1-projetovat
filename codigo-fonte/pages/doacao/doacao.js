@@ -10,5 +10,5 @@ function submitDonation() {
 
     localStorage.setItem('@VAT:doacao', JSON.stringify({ donationAmount, institution }));
 
-    window.location.href= "/pages/pagamento/pagamento.html";
+    window.location.href= "../pagamento/pagamento.html";
 }
