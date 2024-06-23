@@ -17,6 +17,14 @@
 
  
 
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/e9c1c9af-b325-4af4-9114-be6e3210e098
+
+
+
+
+
+
 ## Hospedagem
 
 Foi utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido na URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/codigo-fonte/pages/home/home.html
