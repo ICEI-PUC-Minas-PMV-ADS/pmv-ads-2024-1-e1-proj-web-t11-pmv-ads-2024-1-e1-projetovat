@@ -41,7 +41,8 @@ A redefinição de senha será utilizada quando um integrante precisar redefinir
 
 #### Exemplo da Tela de Redefinição de Senha: 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/165384143/d77cacd0-7731-4396-af35-411f6aa705a6)
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/6aab6da0-40d8-43c2-b517-b8ce50bd8b89">
+
 
 #### Requisito Atendido:
 
@@ -54,10 +55,11 @@ RF-14: O sistema deve fornecer uma tela de Redefinição de Senha, na qual os us
 - redefnicaodesenha.css
 - redefinicaaodesenha.js
 
-#### Instruções de Acesso:
+#### Estrutura de Dados:
 
-Ao clicar em “Esqueceu a Senha?” na página de "Login", terá acesso a página de redefinição de senha.
+<img width="400" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/ca7e1652-a55e-4ea8-8913-3b92c6c1f1af">
 
+<br>
 <br>
 
 ## Telas de Cadastros (RF-08)
@@ -83,14 +85,13 @@ RF-08	A aplicação deve permitir aos usuários e ONG's cadastrarem uma conta.
 - Cadastro_Voluntário.css
 - Cadastro_Voluntário.js
 
-  <br>
 ### Estrutura de Dados:
-![Sem Título](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/c48689aa-d459-4793-b2ee-01bc76b1f849)
 
+<img width="400" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/6c44161a-f258-4986-8c2e-7738206877ce">
 
-![Sem Título](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/162830573/be03d939-3214-458b-af08-bc510f8c27c9)
+<img width="468" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/263bd36f-9c54-4b20-a366-84edb1c7ca1c">
 
-
+<br>
 <br>
 
 ## Tela de Doação (RF-21)
@@ -109,6 +110,16 @@ Ao clicar em "Doe agora", os usuários serão encaminhados para esta página. A 
 
 RF-21: A plataforma deve ter a opção do usuário doar dinheiro para uma ONG ou instituição.
 
+#### Artefatos da Funcionalidade:
+- doacao.html
+- doacao.css
+- doacao.js
+
+### Estrutura de Dados:
+
+<img width="500" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/db431024-007a-4fc5-8f49-e5d50a526047">
+
+<br>
 <br>
 
 ## Tela de Pagamento (RF-13)
@@ -144,7 +155,8 @@ RF-13: O site deve ter uma tela de pagamento, onde o usuário poderá escolher e
 
 #### Estrutura de Dados:
 
-<img width="400" alt="Imagem1" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/a4db371e-71e4-4612-8ba5-4715a9902acd">
+<img width="500" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/0357b706-3c73-4ae0-b564-f24d11009cc8">
+
 
 <br>
 <br>
@@ -152,7 +164,7 @@ RF-13: O site deve ter uma tela de pagamento, onde o usuário poderá escolher e
 
 ## Tela de Login (RF-09, 10 e 11)
 
-‐ Responsável: Letícia Oliveira e Ariane Moura
+‐ Responsável: Ariane Moura e Leticia Oliveira.
 
 #### Exemplo da Tela de Login: 
 
@@ -170,13 +182,23 @@ RF-11: Na tela de login deve ter a opção de se cadastrar.
 - login.css
 - login.js
 
+#### Estrutura de Dados:
+
+<img width="500" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/6156152e-fbe7-45a3-bc12-0612f83b9323">
+
+<br>
 <br>
 
 ## Tela do Administrador (RF-07)
 
 ‐ Responsável: Ariane Moura
 
-<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/3271a00e-7231-4b25-a9b7-a7ef611c3ec0">
+#### Exemplo da Tela de Administrador: 
+
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/fbba022a-5798-458d-b4ca-0326de28d074">
+<img width="1098" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/8d6d8c1b-d117-49a9-9da9-2d7543399805">
+
+
 
 #### Requisitos Atendidos:
 
@@ -190,5 +212,6 @@ RF-07: O sistema deve ter um perfil de administrador para gerir as informações
 
 #### Estrutura de Dados:
 
-<img width="523" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/01cd5926-9284-40af-9c0c-7ba66c21f14d">
+<img width="500" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/7a16c4ed-835f-4ea4-899a-ad8510ec76eb">
+
 
